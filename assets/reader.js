@@ -12,7 +12,7 @@ themeButton?.addEventListener("click", () => {
   localStorage.setItem("before-the-songs-theme", next);
 });
 
-const scales = [0.92, 1, 1.08, 1.16];
+const scales = [0.82, 0.88, 0.94, 1, 1.08];
 let scaleIndex = Number(localStorage.getItem("before-the-songs-scale") || 1);
 
 function applyScale() {

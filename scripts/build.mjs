@@ -81,13 +81,79 @@ const chapterFiles = readdirSync(manuscriptDir)
 
 const chapters = chapterFiles.map(readChapter);
 
+const chapterPlan = [
+  {
+    title: "The Returned Man",
+    teaser:
+      "He returned in one piece, hungry but satisfied with one version of the story.",
+  },
+  {
+    title: "They Began It",
+    teaser:
+      "A wound enters the room before the woman who carries it, and every cause acquires an ancestor.",
+  },
+  {
+    title: "The Guest in the Garden",
+    teaser:
+      "Among trees planted for pleasure, one unwilling guest keeps company with the silence.",
+  },
+  {
+    title: "The Brother Who Crossed",
+    teaser:
+      "A brother discovers that leaving and betraying can wear the same footprints.",
+  },
+  {
+    title: "What Kings Owe",
+    teaser:
+      "A crown weighs least in ceremony and most when an ordinary life waits upon a word.",
+  },
+  {
+    title: "A Bridge Across the Water",
+    teaser:
+      "Across the dark water, impossible things begin as measurements, rope and sleepless hands.",
+  },
+  {
+    title: "The Shape of Ten Men",
+    teaser:
+      "A man is given many faces by those who need only one of them to be hated.",
+  },
+  {
+    title: "The Last Honest Thing",
+    teaser:
+      "At the edge of defeat, mercy and pride begin to resemble one another.",
+  },
+  {
+    title: "Four Hours Until Dawn",
+    teaser:
+      "The lamps burn low; the city counts hours while its king counts explanations.",
+  },
+  {
+    title: "Before the Songs",
+    teaser:
+      "Before memory makes gods and monsters, two men choose what can still be said.",
+  },
+];
+
+const chapterNames = [
+  "One",
+  "Two",
+  "Three",
+  "Four",
+  "Five",
+  "Six",
+  "Seven",
+  "Eight",
+  "Nine",
+  "Ten",
+];
+
 function documentShell({ pageTitle, description, className, base, content }) {
   return `<!doctype html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#0d0c0b">
+  <meta name="theme-color" content="#e9e0d2">
   <meta name="description" content="${escapeHtml(description)}">
   <title>${escapeHtml(pageTitle)}</title>
   <link rel="stylesheet" href="${base}assets/novel.css">
@@ -101,17 +167,26 @@ function documentShell({ pageTitle, description, className, base, content }) {
 }
 
 function buildHome() {
-  const chapterCards = chapters
+  const chapterCards = chapterPlan
     .map(
-      (chapter, index) => `
-        <a class="chapter-card" href="${chapter.href}">
+      (planned, index) => {
+        const chapter = chapters[index];
+        const tag = chapter ? "a" : "div";
+        const link = chapter ? ` href="${chapter.href}"` : "";
+        const stateClass = chapter ? "" : " is-forthcoming";
+        const status = chapter ? `Chapter ${chapterNames[index]}` : `Chapter ${chapterNames[index]} · Forthcoming`;
+
+        return `
+        <${tag} class="chapter-card${stateClass}"${link}>
           <span class="chapter-card__number">${String(index + 1).padStart(2, "0")}</span>
-          <span>
-            <small>${escapeHtml(chapter.number)}</small>
-            <strong>${escapeHtml(chapter.title)}</strong>
+          <span class="chapter-card__copy">
+            <small>${status}</small>
+            <strong>${escapeHtml(planned.title)}</strong>
+            <span class="chapter-card__teaser">${escapeHtml(planned.teaser)}</span>
           </span>
-          <span class="chapter-card__arrow" aria-hidden="true">→</span>
-        </a>`
+          <span class="chapter-card__arrow" aria-hidden="true">${chapter ? "→" : "◇"}</span>
+        </${tag}>`;
+      }
     )
     .join("");
 
@@ -134,7 +209,7 @@ function buildHome() {
         <h1 id="book-title"><span>Before</span><span>the Songs</span></h1>
         <div class="cover__rule" aria-hidden="true"></div>
         <p class="cover__tagline">By dawn, one man will be a god.<br>The other will be a monster.</p>
-        <p class="cover__author">KP Novix</p>
+        <p class="cover__author">By KP</p>
         <a class="primary-link" href="${chapters[0]?.href ?? "#chapters"}">
           Begin reading <span aria-hidden="true">→</span>
         </a>
@@ -143,10 +218,19 @@ function buildHome() {
     </section>
 
     <section class="premise" aria-labelledby="premise-title">
-      <p class="section-label">The novel</p>
-      <h2 id="premise-title">History has already chosen its ending.</h2>
-      <p>In the final hours before an army enters his city, a king sits with a wounded spy and tells the story that will not survive him.</p>
-      <p>No gods. No demons. Only gifted, frightened human beings—and the explanations by which they learn to live with what they have done.</p>
+      <div class="premise__heading">
+        <p class="section-label">The novel</p>
+        <h2 id="premise-title">History has already chosen its ending.</h2>
+      </div>
+      <div class="premise__story">
+        <p>By the time dawn reaches the copper roofs, the victors will have names for everything. Courage will belong to one shore. Wickedness will belong to the other. A complicated war will be cleaned, polished and made simple enough to sing.</p>
+        <p>But dawn has not yet arrived.</p>
+        <p>Night lies warm upon the city. Salt gathers on the palace screens. The corridors smell of sesame oil, wet stone and jasmine bruised beneath hurried feet. From the kitchens comes woodsmoke and the sweetness of coconut; from the harbour, tar, fish and rope soaked by the southern sea. Servants carry clean linen past wounded soldiers. Somewhere below, a carpenter is still being asked to mend a hinge—as though the palace expects another season.</p>
+        <p>In an upper room, a king waits with a man who was not expected to return. Before them are four hours, a jug of water and the small practical decisions by which a kingdom continues while it is ending.</p>
+        <p>The king has been a scholar, musician, builder, brother, husband and ruler. He has opened granaries during bad rains and closed his hand when mercy would have cost him pride. He is clever enough to recognise his mistakes and human enough to rename them.</p>
+        <p>Outside, an army prepares the story that generations will inherit. Inside, two men examine the one that will disappear.</p>
+        <p>No gods. No demons. Only gifted, frightened human beings—and the explanations by which they learn to live with what they have done.</p>
+      </div>
     </section>
 
     <section class="chapters" id="chapters" aria-labelledby="chapters-title">
@@ -155,7 +239,7 @@ function buildHome() {
           <p class="section-label">Read</p>
           <h2 id="chapters-title">The conversation</h2>
         </div>
-        <p>${chapters.length} of 10 chapters</p>
+        <p>${chapters.length} available · 10 chapters</p>
       </div>
       <div class="chapter-list">${chapterCards}</div>
     </section>
@@ -163,11 +247,11 @@ function buildHome() {
 
   <footer class="site-footer">
     <span>Before the Songs</span>
-    <span>© 2026 KP Novix</span>
+    <span>© 2026 KP</span>
   </footer>`;
 
   return documentShell({
-    pageTitle: "Before the Songs — A novel by KP Novix",
+    pageTitle: "Before the Songs — A novel by KP",
     description:
       "On the last night of a kingdom, a king tells the story that history will not preserve.",
     className: "home-page",
@@ -226,7 +310,7 @@ function buildChapter(chapter) {
 
   <footer class="reader-footer">
     <a href="../">Before the Songs</a>
-    <span>KP Novix</span>
+    <span>KP</span>
   </footer>`;
 
   return documentShell({

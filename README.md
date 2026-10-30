@@ -2,7 +2,7 @@
 
 > By dawn, one man will be a god. The other will be a monster.
 
-A ten-chapter literary novel by **KP Novix**.
+A ten-chapter literary novel by **KP**.
 
 The manuscript lives in the \`manuscript/\` folder as clean Markdown. The reading website is generated automatically, so the prose remains easy to edit in GitHub without working inside HTML.
 
@@ -50,4 +50,4 @@ Then serve the generated \`dist/\` folder with any static web server.
 
 ## Rights
 
-Copyright © 2026 KP Novix. All rights reserved.
+Copyright © 2026 KP. All rights reserved.
