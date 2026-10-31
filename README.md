@@ -4,7 +4,7 @@
 
 A ten-chapter literary novel by **KP**.
 
-The current edition contains Chapters One to Four. Chapter Three has its own restrained rose-and-ashoka reading palette; the reader may still choose light or dark mode.
+The current edition contains Chapters One to Five. Chapter Three has its own restrained rose-and-ashoka reading palette; the reader may still choose light or dark mode.
 
 The manuscript lives in the \`manuscript/\` folder as clean Markdown. The reading website is generated automatically, so the prose remains easy to edit in GitHub without working inside HTML.
 
