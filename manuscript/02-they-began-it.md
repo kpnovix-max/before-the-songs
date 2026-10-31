@@ -28,7 +28,7 @@ The king stopped.
 
 Shuka shifted his bandaged foot to the floor and failed to hide what it cost him. “If this came from them, I may know how.”
 
-The physician appeared from behind the screen with a needle between his lips. He removed it and pointed at Shuka.
+The physician appeared from behind the screen with a needle between her lips. She removed it and pointed at Shuka.
 
 “He cannot walk.”
 

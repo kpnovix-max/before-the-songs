@@ -60,7 +60,7 @@ The king remembered a boy with wide ears who used to wait beside the kitchen dra
 
 For the first time, the girl looked directly at him. “Only when he is hungry.”
 
-“Then he has improved.” The king pointed towards the northern wall. “Put his bed beneath the shell panel. It is the driest part of the room. Tell the physician the king asked whether the wound was washed before it was stitched. Do not tell him I asked twice. He will become offended and spend the night writing me a lecture.”
+“Then he has improved.” The king pointed towards the northern wall. “Put his bed beneath the shell panel. It is the driest part of the room. Tell the physician the king asked whether the wound was washed before it was stitched. Do not tell her I asked twice. She will become offended and spend the night writing me a lecture.”
 
 The girl smiled before remembering that she was frightened.
 
@@ -456,7 +456,7 @@ Ketu’s mouth moved in what might have been a smile.
 
 The servants placed him beneath the shell panel. The physician followed, already frowning at the use of a guest chamber as a ward.
 
-“The wound was washed,” he said before the king could ask.
+“The wound was washed,” she said before the king could ask.
 
 “Then I shall not ask twice.”
 
