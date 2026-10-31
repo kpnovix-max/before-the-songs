@@ -2,1020 +2,1124 @@
 
 ## They Began It
 
-Shuka did not ask which sister.
+The northern cistern caught fire before the king could say his sister’s name.
 
-There had only ever been one whom the king could mean in that tone: the woman who had entered the great council hall at noon with blood running through her fingers, down her wrist and into the fold of her blue travelling cloak.
+At first the message sounded impossible. Then the messenger came through the western-room door with blisters rising along one cheek and oil shining on both sleeves. He had lost one sandal. The bare foot left a wet black print on the pale floor.
 
-Most people who witnessed her arrival remembered the blood. The king remembered the missing earring. Its twin still hung from her left ear, a heavy loop of beaten gold that swung when she walked. On the other side there was only torn flesh and a dark line disappearing beneath the hand she held across her face. The absence of that small piece of gold had disturbed him more than all the red upon her clothes. It had made the violence look deliberate.
+“Someone entered through the old drainage channel,” he said. “Six clay jars were broken over the water. Perhaps seven. There was ash as well, or lime. The water-master cannot tell because the surface is burning.”
 
-Behind the folding screen in the western room, Ketu cried out as the physician pulled a stitch through his shoulder. A servant asked for another lamp. The king told her to take the one beside the shell panel, warned her that its base was loose, and waited until its light had passed behind the screen before turning back to Shuka.
+The king was moving before the man finished.
 
-“You think I chose that beginning because it excuses me.”
+“Seal the lower channel,” he said. “Open the palace reservoir. Wake every potter within the inner wall and take every sound water jar they possess. Send the bathing water to the physicians and the kitchen water to the northern quarter. Tell the brewers I want their carts.”
 
-Shuka held the cup of water between his palms. “I think you chose it because she was bleeding.”
+The messenger blinked. “The brewers, Majesty?”
 
-“Is there a difference?”
+“Beer has to travel without falling out. Their carts will understand water.”
 
-“There will be before the end.”
+Behind the folding screen, the physician called for someone to hold the wounded boy’s shoulder. A servant hurried past carrying a bowl and nearly struck the king with it. He caught the rim before it tipped, moved it aside and continued towards the door.
 
-The king sat down.
+Shuka put both hands on his chair and tried to rise.
 
-The chair gave a soft complaint beneath him. One of its rear joints had begun to loosen. He made a note to tell Dharan, then remembered there might be no one repairing chairs tomorrow.
+“Remain here,” the king said.
 
-“It was the middle of the dry season,” he said. “The council had been arguing for an hour about sandalwood.”
+“I saw their camp.”
 
-Shuka looked at him over the rim of the cup.
+The king stopped.
 
-“Sandalwood?”
+Shuka shifted his bandaged foot to the floor and failed to hide what it cost him. “If this came from them, I may know how.”
 
-“A merchant had declared forty-two trunks at the eastern quay. The harbour assessor counted forty-seven. The merchant claimed five were packing wood. The assessor claimed packing wood did not usually smell of sandalwood.”
+The physician appeared from behind the screen with a needle between his lips. He removed it and pointed at Shuka.
 
-“A difficult constitutional matter.”
+“He cannot walk.”
 
-“It had already occupied more of the council’s time than three border disputes and a collapsed bridge.”
+“I have noticed,” said the king.
 
-Shuka lowered the cup. “Who was winning?”
+“The ankle may be cracked.”
 
-“The merchant. He had brought lunch.”
+“Then we shall not ask it to walk.”
 
-For a moment, the city beyond the room seemed far away. Then another horn sounded near the northern wall, and the small ease between them closed.
+The king looked into the passage. “Bring a carrying chair.”
 
-The king continued.
+The old chamberlain was already there, keys wrapped in blue cloth at his waist. He appeared to have been listening long enough to acquire three new objections.
 
-The council hall had been built to make visitors feel that the island possessed more gold than it did. Thin sheets of polished copper covered the upper pillars. In afternoon light they shone yellow, and foreign envoys often mistook them for something more valuable. The lower pillars were plain stone because people touched them. Wealth displayed above the reach of hands required less cleaning.
+“The carrying chairs are in the eastern store,” he said. “The eastern store is locked.”
 
-Thirty-two men had been present that day: ministers, harbour officials, two commanders, three merchants and the sandalwood trader whose lunch was steadily becoming cold in an adjoining room. A scribe sat on the floor with his writing board across his knees, trying to record four men speaking at once.
+“You possess every key in the palace.”
 
-The bronze doors opened before the herald announced anyone.
+“That is why opening the correct door takes time.”
 
-The king’s sister walked in between two exhausted attendants. One carried her travel bag. The other held a short sword wrapped in cloth. Both men looked as though they had slept in their saddles.
+The king looked at the messenger’s missing sandal, at Shuka trying not to lean upon the table, and then at the chamberlain.
 
-She crossed the hall without bowing.
+“Use my breakfast chair.”
 
-The sandalwood merchant stopped speaking. The harbour assessor, who had spent twenty years training himself not to react in front of powerful men, stared openly.
+The chamberlain’s face tightened. “Majesty, that chair was not made to be carried.”
+
+“Neither was Shuka. Tonight we must be inventive.”
+
+Two guards lifted the narrow wooden chair from beside the western screen. It was the one on which the king sat when a barber trimmed his beard or a servant fastened the lower straps of formal armour. It had straight legs, no arms and a cushion thin enough to discourage long breakfasts.
+
+Shuka lowered himself onto it.
+
+“This is undignified,” he said.
+
+“You returned from the enemy with one sleeve, half a sandal and a swollen foot. Dignity has already left by another door.”
+
+The king stepped into the passage.
+
+The northern bells began before they reached the stairs.
+
+They were not temple bells. Those rang with measured pauses, each stroke allowed to fade before the next. These were iron alarm plates struck by men who had no interest in music. The sound travelled through the palace stone and made the lamp flames tremble.
+
+Servants emerged from sleeping rooms, tying belts and fastening hair as they ran. A cook appeared holding a ladle in one hand and a cleaver in the other. He looked at both, seemed uncertain which object a burning cistern required, and followed with them anyway.
+
+The chamberlain kept pace beside the king.
+
+“How much of the palace reservoir?” he asked.
+
+“All of it.”
+
+“The drinking reserve as well?”
+
+“Keep enough for the wounded until the southern carts arrive.”
+
+“And your morning bath?”
+
+The king took the next three steps without answering.
+
+“Majesty?”
+
+“If the city survives, I shall have time to become dirty again tomorrow.”
+
+The chamberlain nodded as though this settled an important question of state.
+
+They crossed the lower court. Rain had thinned to a warm mist. Beyond the palace roofs, orange light moved against the black sky where no sunrise should yet have been. Smoke climbed above the northern quarter and flattened beneath the clouds.
+
+One of the guards carrying Shuka slipped on the wet stone. Shuka caught the man’s shoulder with his good hand.
+
+“If you drop me,” he said, “I shall report you to the enemy.”
+
+The guard recovered his footing. “Which enemy, sir?”
+
+Shuka looked towards the glow.
+
+“That is becoming difficult to answer.”
+
+The palace’s northern gate stood open. Water carts rolled through it in both directions, empty ones going in, full ones coming out from the smaller wells of the southern wards. Oxen strained on the slope. Their drivers shouted. Clay jars knocked together beneath nets of rope, making a sound like teeth in a fever.
+
+The king took the steep road on foot.
+
+He had worn no crown in the western room, only a plain dark tunic with the sleeves folded once at the wrist. He had not stopped to put on sandals suited to rain. Mud climbed the leather of the pair he wore. Twice, officials attempted to intercept him with questions. He answered without slowing.
+
+“The grain store?” asked one.
+
+“Closed until the water is safe.”
+
+“The northern infirmary?” asked another.
+
+“Move anyone who cannot walk. Anyone who can walk carries something.”
+
+“The lotus court?” the chamberlain called from behind him. “Its pool is clean.”
+
+“Drain it.”
+
+“There are fish.”
+
+“Then tonight they will travel.”
+
+“Where?”
+
+“Somewhere with water, ideally.”
+
+The chamberlain turned to a servant. “Find a suitable future for the fish.”
+
+The road narrowed between houses faced with pale plaster. Families stood outside holding vessels: brass pots, cooking bowls, painted jars, one child’s wooden bath with a crack bound in twine. Some wore sleeping clothes. Some had wrapped cloth across their mouths against the smoke. No one cheered when the king passed. They watched him with the concentrated silence of people waiting to discover whether authority was useful.
+
+The cistern occupied an old stone court built lower than the surrounding streets. Rainwater from half the northern roofs fed it through channels, and a covered conduit carried water onward to the wall, the barracks and the houses below. The roof over its central pool had partly collapsed.
+
+Oil burned on the water in long, broken islands. The flames were low and strangely delicate, blue at their base and orange where they leaned into the wind. Black smoke rolled across the court. Men along the edge threw sand, not water, while others dragged burning beams away with hooks.
+
+The smell reached the king before the heat did: rancid lamp oil, wet ash, scorched rope and something bitter enough to settle at the back of the tongue.
+
+A little girl sat on the upper step with both hands around an empty cup. Soot had made two clean paths beneath her eyes. A physician knelt before her and poured the last of a leather flask over a cloth.
+
+“Will boiling it make it good?” the girl asked.
+
+The physician looked towards the cistern.
+
+He did not answer.
+
+The king stopped beside them. He removed the small water flask from his belt and gave it to the physician.
+
+“Wash her eyes first,” he said.
+
+The girl held out the cup.
+
+The physician hesitated.
+
+“Half to drink,” said the king. “Half for her eyes. She will complain that this is unfair. That will tell us she is improving.”
+
+The girl stared up at him. “I can hear you.”
+
+“Already better.”
+
+The water-master came running from the lower court. He was an elderly man wearing a nightshirt beneath a leather work apron. One eyebrow had been singed away. The absence made his face appear permanently doubtful.
+
+“The lower channel is shut,” he said. “The gate is holding, but some oil entered before we closed it. I need men inside the inspection trench.”
+
+“Can they breathe there?” the king asked.
+
+“Not for long.”
+
+“Then send three teams and change them before they become brave.”
+
+The water-master nodded.
+
+“How much is lost?”
+
+“This pool entirely. The lower holding chamber may be saved. We will not know until the surface stops burning.”
+
+“What was put into it?”
+
+“Lamp oil. Fine ash. Lime, perhaps. There are crushed leaves in one jar, but every man who claims to recognise them gives me a different plant.”
+
+“Assume the most poisonous man is correct.”
+
+“That was my intention.”
+
+“How long before the northern quarter runs dry?”
+
+“It already has.”
+
+The answer landed more heavily than the bells.
+
+The king looked up at the houses crowded along the slope. Hundreds of vessels waited in hundreds of hands. Behind them, the northern wall rose black against the burning water. The wall guards depended on the same conduit. So did the infirmary. So did the public kitchen beneath the armourers’ street.
+
+“The palace carts will arrive first,” the king said. “Give half to the infirmary, half to the public cistern at the market.”
+
+The water-master scratched the place where his missing eyebrow had been. “That leaves the wall.”
+
+“The southern wells will supply the wall.”
+
+“The climb will halve each cart.”
+
+“Then double the carts.”
+
+“We do not have double the oxen.”
+
+The king looked towards the wide shoulders of the palace guards.
+
+The guards stopped pretending not to listen.
+
+“Use men on the downhill roads,” he said. “Keep the animals for the climb.”
+
+One of the guards carrying Shuka sighed.
+
+“Not you,” said the king. “You are transporting intelligence.”
+
+Shuka shifted on the breakfast chair. “At last, an accurate description of my office.”
+
+A shout rose near the far steps.
+
+The sound differed from the calls around the fire. It had the rhythm of anger: one voice, then ten, then a crowd discovering it possessed a single throat.
+
+The king turned.
+
+Six soldiers had formed a ring around a young man on the ground. His wrists were bound behind him with wet rope. His hair had been cut close except for a narrow braid at the back, the fashion worn by several of the forest companies camped beyond the causeway. Blood ran from his eyebrow. One bare foot was blistered. The other still wore a soft leather shoe blackened by soot.
+
+A broken clay jar lay nearby.
+
+The captain of the water guard stood over him with a short, heavy blade used for cutting rope and splitting damaged boards.
+
+The young man’s right hand had been pulled onto the lowest step.
+
+The king went down into the court.
+
+“Move your foot,” he said.
+
+The captain turned. His boot remained across the prisoner’s wrist.
+
+“Majesty, this is the man.”
+
+“I understood that from the rope.”
+
+“He came through the drainage channel. A potter found him behind the lime store. He had two jars left.”
+
+“Move your foot.”
+
+The captain obeyed.
+
+The prisoner pulled his hand towards his chest. He could not get far with his wrists tied. His fingers shook.
+
+The king held out his hand for the blade.
+
+The captain surrendered it reluctantly.
+
+“What were you going to do?” the king asked.
+
+“Send back a warning.”
+
+“Using which part of him?”
+
+The captain looked at the bound hand.
+
+Around them, the crowd had fallen quiet. Sand continued to strike the burning water. Somewhere below, a beam collapsed with a wet hiss.
+
+“He poisoned our children,” the captain said.
+
+“He may have.”
+
+“We caught him with the jars.”
+
+“Then we have evidence. Why were you preparing to destroy it?”
+
+The captain’s jaw tightened. “They must learn what happens when they strike this city.”
+
+The king looked at the young prisoner.
+
+He was perhaps eighteen. Perhaps younger. Fear made age difficult. There were calluses on his palms and a fresh burn across one forearm. His breathing came in short, controlled pulls, as if someone had taught him that pain became smaller when kept behind the teeth.
+
+The king turned back to the captain.
+
+“Then teach them that we remain a kingdom even when they behave like a mob.”
+
+The captain glanced towards the black water. “Majesty—”
+
+“He is tied.”
+
+“He entered through our drain.”
+
+“And now he is tied.”
+
+“He tried to destroy the quarter’s water.”
+
+“And now he is tied.”
+
+The king lowered his voice. The captain had to lean closer to hear him.
+
+“If you cut him while he is helpless, you do not defend the city. You use the city to excuse yourself.”
+
+The captain’s face changed. Anger remained, but shame entered beside it.
+
+The king gave the blade to the water-master.
+
+“Put the prisoner under guard. Loosen the rope before his hands are damaged. Have the physician treat the burn.”
+
+“And afterward?” the captain asked.
+
+“If there is an afterward, he will answer before a court.”
+
+“He may be executed.”
+
+“He may.”
+
+“Then what difference does his hand make tonight?”
+
+The king looked around the cistern court: at the oil burning over public water, the child drinking from his flask, the citizens clutching empty vessels and the prisoner whose life now depended upon the temper of people he had harmed.
+
+“Walls do not make a civilisation,” he said. “Any frightened mob can pile stone around itself. A civilisation is the list of things it refuses to do, even while its walls are breaking.”
+
+No one answered.
+
+The captain bent and lifted the prisoner by the uninjured arm.
+
+Shuka spoke from the carrying chair above them.
+
+“Ask him who chose the cistern.”
+
+The king looked up.
+
+Shuka’s face had gone still in the way it did when a detail moved into place.
+
+The prisoner was brought to the upper step. A guard cut the rope and retied his hands in front. The young man rubbed his wrists but did not thank anyone.
+
+The king crouched so that their faces were level.
+
+“Who selected this water?”
+
+The prisoner looked past him towards Shuka.
+
+Recognition appeared first. Then alarm.
+
+“You were in the camp,” the young man said.
+
+Shuka leaned back against the chair. “So were you.”
+
+The prisoner closed his mouth.
+
+The king waited.
+
+The bells continued. People moved around them. He had learned that silence was most effective when the world provided its own pressure.
+
+At last the young man said, “The cistern feeds the northern wall.”
+
+“It also feeds this quarter.”
+
+“The quarter feeds the wall.”
+
+The king looked at Shuka.
+
+Shuka’s fingers tightened around the side of the chair.
+
+“I heard that argument at their war table,” he said. “The younger brother compared the city to a body. The wall was its fist. The water was its blood. Strike one and the other weakens.”
+
+The king turned back to the prisoner.
+
+“Did he also explain which part of the body that child represents?”
+
+The prisoner looked towards the little girl.
+
+She had finished the water and was objecting loudly while the physician cleaned her eyes. The king was pleased to have predicted this, though he kept the satisfaction to himself.
+
+“We were told that anyone who remained behind the wall had chosen your side,” the prisoner said.
+
+The king stood.
+
+“Children choose very early in the north.”
+
+The prisoner’s face reddened. “Your soldiers drink from this water.”
+
+“So do your prisoners now.”
+
+The young man had no answer to that.
+
+The king ordered him taken to the palace infirmary under two guards. Several people in the crowd protested. He let them. A king who permitted no complaint eventually heard only surprise.
+
+The first palace cart arrived while the prisoner was being led away.
+
+Its copper-bound wheels struck the stones hard enough to wake anyone still sleeping. Servants had filled it with covered jars from the royal reservoir. The old chamberlain rode on the front beside the driver, holding a wooden inventory tablet across his knees.
+
+The king stared at him.
+
+“You found time to make a list?”
+
+“Majesty, if we survive, someone will ask where the jars went.”
+
+“And if we do not?”
+
+The chamberlain considered this. “Then I prefer not to spend my final hours being accused of poor records.”
+
+The king pointed towards the infirmary road.
+
+“Half there. Half to the market cistern. No household receives a second jar until every household has one.”
+
+The water-master climbed onto the cart and began directing the unloading.
+
+The lotus-court servants arrived next carrying three large tubs. Silver fish moved beneath the surface of one, flashing whenever the tub tilted.
+
+“A future has been found for them,” the chamberlain announced.
+
+“Where?”
+
+“The ornamental basin at the southern shrine.”
+
+“Is it clean?”
+
+“Cleaner than the priests will be pleased about.”
+
+The king nodded. “The fish have entered religious life. Drain their former home.”
+
+For the next half-hour he remained in the water court.
+
+He assigned streets to carts, shifted guards from the empty eastern warehouses and ordered the bathhouse boilers extinguished before someone used clean water to heat clean water. He sent runners to the southern wells. He had the palace laundry vats emptied into barrels for firefighting and forbade anyone from drinking them, no matter how much lavender disguised the soap.
+
+The burning oil gradually narrowed. Sand covered the last blue flames. Smoke thinned enough for the stars to appear through it, faint and indifferent.
+
+Only then did the king leave.
+
+Shuka’s chair was carried beside him up the northern road. The alarm plates had stopped, but the city was fully awake now. Water carts groaned through every crossing. People formed lines beneath torchlight. A woman argued with a palace servant about the size of her jar. The servant listened with patience until the woman attempted to include three cooking pots beneath her shawl.
+
+The king watched the servant remove them one at a time.
+
+“Civilisation is progressing slowly,” Shuka said.
+
+“It usually does.”
+
+They walked for several moments without speaking.
+
+Shuka looked back at the ruined cistern.
+
+“The captain was right about one thing.”
+
+“Only one?”
+
+“The enemy would have understood the warning.”
+
+“That is not the same as learning from it.”
+
+“You may execute the prisoner tomorrow.”
+
+“A court may.”
+
+“The distinction will comfort him.”
+
+“It should comfort us.”
+
+Shuka considered that.
+
+“Because he was helpless?”
+
+“Because power requires rules most when anger makes rules inconvenient.”
+
+The guards adjusted the carrying chair as the road steepened. Shuka waited until they had found their rhythm.
+
+“Your sister was helpless when they cut her.”
+
+The king did not look at him.
+
+“She was on her knees.”
+
+The sentence travelled with them up the hill.
+
+They entered the palace through the lower gate. The kitchen court had been emptied of its water jars. Cooks stood beside cold ovens with the mournful expressions of men whose profession had been abolished. One held a bowl of soaked rice and seemed personally betrayed by it.
+
+“There is enough rice water for the wounded,” he told the king.
+
+“Then the wounded eat first.”
+
+“And everyone else?”
+
+The king glanced at Shuka.
+
+“Apparently we are having a story.”
+
+The cook looked from the king to the spy on the breakfast chair.
+
+“Can it be chewed, Majesty?”
+
+“Not this one.”
+
+The cook returned to his cold ovens.
+
+The guards carried Shuka back to the western room. The physician had finished stitching the wounded boy. He slept behind the screen beneath three blankets, one of them embroidered with blue peacocks from a wedding held many years earlier. The little practical life of the palace had rearranged itself around disaster. A tray of instruments occupied a table made for flowers. Bloodied cloth soaked in a bowl made for fruit. The silver jug on the king’s table was empty; its water had gone north in his belt flask.
+
+A servant brought two cups and then remembered there was nothing to pour into them.
+
+“Leave them,” said the king.
+
+She did.
+
+Shuka was lowered into the padded chair again. He regarded it with the gratitude of a man reunited with a close relative.
+
+The king remained standing.
+
+“You said she was on her knees,” Shuka said.
+
+“Yes.”
+
+“Begin there.”
+
+The king looked towards the open screens. Smoke from the northern quarter had mixed with the sea air. The room smelled of burnt oil, rain and the faint medicinal leaves packed around the wounded.
+
+“No,” he said. “If I begin with the sword, you will say I concealed what came before it.”
+
+“Did something come before it?”
+
+“Something always does.”
+
+The king sat opposite him.
+
+“My sister governed land on the mainland,” he said. “Forest, river crossings, three market settlements and a road that existed on tax records more often than it existed on the ground. She had lived there for years.”
+
+“Alone?”
+
+The king’s eyes moved to the empty cup.
+
+“Her husband died in one of my wars.”
+
+Shuka waited.
+
+“Did you kill him?” he asked eventually.
+
+“I did not strike him.”
+
+“That was not my question.”
+
+The king allowed himself a brief, joyless smile.
+
+“His people fought mine. I ordered the campaign. He tried to remain between us until remaining between us became another way to be crushed. He chose his kin. One of my soldiers killed him.”
+
+“And your sister blamed you.”
+
+“My sister possessed an irritating respect for causes.”
+
+The king had offered her money, a place in the palace and the official comfort of hearing that no one had intended the particular blow that killed her husband. She accepted none of them. In the end she accepted authority over the southern district because it allowed her to live beyond the daily reach of his remorse.
+
+She took the land and made it work.
+
+She settled arguments over cattle, salt and river rights. She knew which village headman lied about harvests and which lied only about sons. Twice a month she kept a public kitchen. During a bad season she had a grain merchant tied to a tamarind tree for charging four times the proper price.
+
+When the merchant complained that ants were climbing beneath his clothes, she ordered the guards to move him to a tree with fewer ants.
+
+“Merciful,” Shuka said.
+
+“By local standards, excessively.”
+
+She wrote to the king irregularly. Her letters requested midwives, complained about road repairs and described birds she knew he would never see. She did not mention her husband. She did not say she forgave her brother. She did not need to. Each silence performed both tasks.
+
+Then the northern prince arrived beside the river.
+
+He came with his wife and younger brother and claimed to want nothing except a place in which to complete his exile. They built a timber house, dug a drainage trench and cleared the brush far enough to see anyone approaching with a weapon.
+
+They hunted. They traded. They received travelling ascetics and men from forest settlements hostile to the king’s frontier officers.
+
+“A hermitage,” Shuka said.
+
+“That was their word.”
+
+“And your sister’s?”
+
+“An armed camp with a vegetable garden.”
+
+Both descriptions were accurate.
+
+The king’s sister first heard of the strangers from a ferryman who complained that the younger brother had cut reeds from the eastern bank without paying the village fee. The value of the reeds was trivial. The question of who possessed the right to cut them was not.
+
+She rode to the clearing with two attendants and left them among the trees. A troop would have made the visit an accusation. She intended to discover whether an accusation was necessary.
+
+The prince was cutting reed shafts when she saw him.
+
+He sat upon a flat stone with a small knife in one hand and a bundle across his knees. Exile had darkened his arms. His hair was tied at the back without the oil or ornaments favoured by court men. A pale scar ran beneath his chin and vanished when he lowered his face towards his work.
+
+His wife sat several paces away sorting black lentils from small stones on a woven tray. The younger brother repaired the green binding of a bow.
+
+The king knew these details because his sister remembered all of them. Humiliation preserved its surroundings with greater care than happiness did.
+
+She stepped into the clearing.
+
+The prince looked up.
+
+He did not reach for the bow.
+
+That was the first thing she liked about him.
+
+“You have cleared land beside my river,” she said.
+
+The prince set the knife down where his hand could still reach it. “I did not know the river belonged to anyone.”
+
+“It belongs to everyone who uses it. The bank belongs to the settlements that maintain it.”
+
+“Then I owe someone for the reeds.”
+
+“You owe three villages, each of which will claim the best bundle.”
+
+The prince examined the reeds across his knees.
+
+“I fear they will be disappointed.”
+
+“They are villages. Disappointment is one of their principal crops.”
+
+He laughed.
+
+It was not a court laugh, placed carefully after the words of someone important. It began before he could decide whether to permit it. His wife looked up and smiled at the sound.
+
+The king’s sister had expected arrogance. She had prepared herself for a northern nobleman who would explain her own district to her. Instead the prince moved a water jar into the shade, rinsed a cup and offered it to her.
+
+She accepted.
+
+He asked where the flood reached during the heavy rains. She showed him the dark mark on the fig trees. He asked whether the southern track remained open through the wet season. She told him it remained open on maps and nowhere else.
+
+When she explained how the river divided beyond the bend, he looked towards the water as though her words had changed its course.
+
+Men in the palace had listened because she was the king’s sister. Officials listened because she controlled tolls and punishment. This man did not yet know either fact.
+
+He listened without searching the clearing for someone more important.
+
+That was the second thing she liked.
+
+The conversation continued after its purpose had ended.
+
+He asked about the people of the forest. She warned him that some would sell information to both sides of an argument and then charge for explaining why. He told her that northern courtiers offered the same service but wore cleaner clothes.
+
+His wife moved aside on the mat and invited her to sit.
+
+The gesture should have reminded the king’s sister that the prince was married. It did. It also showed her a marriage with room enough in it for ease.
+
+The wife was not decorated like a court princess. Sun had darkened her forearms. Thorns had left fine lines around her ankles. She worked through the lentils patiently, placing the stones in one bowl and the food in another. Whenever the prince misplaced a cut reed, she moved it back within his reach without interrupting the conversation.
+
+He noticed each time.
+
+The king’s sister watched this with an ache she initially mistook for admiration.
+
+“How long will you remain?” she asked.
+
+“Until the years required of me are finished,” the prince said.
+
+“That is a long time to live nowhere.”
+
+He looked towards the river. “I had not understood this was nowhere.”
+
+She heard the gentle correction and liked him for it.
+
+“It is not,” she said. “But it may become somewhere you did not intend.”
+
+The prince met her eyes.
+
+From outside, the moment contained nothing. A man listened to a woman who understood the land around him. He was courteous because courtesy cost less than hostility. His wife sat beside him. His brother worked within reach of a bow.
+
+Inside the king’s sister, the moment became more than it had been offered.
+
+She had been a widow for years. People spoke to widows as if desire had been buried with their husbands and mentioning its survival would be indecent. Land, servants and authority filled days. None of them shared a bed. None remembered the private jokes her husband had once understood. None looked at her without first seeing the king whose sister she was or the dead man whose wife she had been.
+
+The prince did not know enough to see either shadow.
+
+He saw her.
+
+Or she believed he did.
+
+There was little difference while the belief lasted.
+
+She told him her position in the southern district. She did not name her brother. Not yet. The prince appeared neither impressed nor alarmed. He asked how many river crossings she controlled and whether the western one could take a loaded cart.
+
+“Do you inspect every stranger personally?” he asked.
+
+“Only the ones I expect to lie.”
+
+He smiled. “Have I?”
+
+“Not yet.”
+
+“Then I am fortunate you arrived early.”
+
+She carried that answer farther than he intended.
+
+The king paused.
+
+Shuka watched him.
+
+“Did he encourage her?” the spy asked.
+
+“He spoke to her.”
+
+“That is not the same thing.”
+
+“It can be, to someone who has not been spoken to in the right way for a long time.”
+
+The king’s sister did not whisper her proposal. She had never known how to make a small request.
+
+She told the prince that exile had left him without land, protection or recognised standing in the south. She possessed all three. She was free to marry. An alliance with her would make the roads and settlements his friends rather than questions.
+
+Then she said simply, “Take me as your wife.”
+
+The younger brother stopped winding the green cord.
+
+The prince’s wife stopped sorting lentils.
+
+The prince himself did not laugh.
+
+Not then.
+
+“I have a wife,” he said.
+
+The king’s sister looked towards the woman on the mat. “I can see her.”
+
+The wife’s hand remained above the tray, holding one black stone between finger and thumb.
+
+“I will not ask you to put her aside,” the sister continued. “One wife has rarely prevented a prince from taking another. I have my own land and household. I require neither her place nor her belongings.”
+
+The words were practical because practicality was the armour she wore over hope.
+
+The prince looked at his wife.
+
+Whatever passed between them belonged to years the king’s sister had not shared. Affection, amusement and discomfort appeared together. The wife lowered her eyes first.
+
+“I am devoted to her,” the prince said. “I will take no other wife.”
+
+That should have ended it.
+
+It would have hurt. It would also have left the king’s sister with the dignity of having offered something and received an honest refusal.
+
+Instead the prince glanced towards his younger brother.
+
+“My brother has no wife with him,” he said. “He is brave, handsome and less burdened by vows. Perhaps you should ask him.”
+
+The younger brother looked up sharply.
+
+The prince’s mouth had moved at one corner.
+
+The king’s sister saw the movement and mistook it for encouragement.
+
+She turned to the younger man.
+
+He placed the bow across his knees. His expression became solemn with impressive speed.
+
+“You honour me,” he said.
+
+The sincerity in his voice was exact enough to be cruel only in memory.
+
+“Will you marry me?” she asked.
+
+The younger brother lowered his head as if considering the future of two kingdoms.
+
+“I own no land,” he said. “I possess no household. I serve my brother. If you married me, you would become the wife of a servant and spend your days asking his wife for salt. A woman who governs roads deserves better.”
+
+The king’s sister glanced towards the prince.
+
+The prince spread one hand. “You see? Even his refusals are excessively loyal.”
+
+“He has not refused,” she said.
+
+The younger brother looked troubled. “I could never condemn you to my poverty. You should ask my brother again. A prince may discover that devotion has room for a wise exception.”
+
+She returned her attention to the prince.
+
+The wife placed the black stone into the wrong bowl.
+
+“Your brother sends me back to you,” the king’s sister said.
+
+“Already?” The prince looked past her. “You have frightened her away very quickly.”
+
+“I was thinking of her comfort,” the younger brother replied.
+
+“You become thoughtful whenever a beautiful woman speaks to you.”
+
+The younger man smiled. “Then perhaps you should speak less often.”
+
+The brothers laughed.
+
+It was not loud.
+
+That made it worse.
+
+The king’s sister looked from one face to the other. She saw, at last, the entire path along which they had led her. The courtesy. The grave expressions. The careful passing of her hope from hand to hand.
+
+The prince had never intended his brother as an answer. The younger brother had never considered her proposal. They had taken the most private thing she had offered and discovered it could entertain them.
+
+No cloth had been removed from her. Yet by the time she understood the joke, she felt publicly undressed.
+
+She looked towards the wife.
+
+The woman was not laughing.
+
+Pity occupied her face instead.
+
+Pity was harder to bear.
+
+“Enough,” the wife said quietly.
+
+The prince’s smile disappeared.
+
+But enough had arrived after the laughter.
+
+The king’s sister stood.
+
+The water cup slipped from her hand and struck the earth. It did not break. A small dark circle spread through the dust.
+
+“Was that your purpose?” she asked the wife.
+
+The wife set down the woven tray. “I did not ask them to do this.”
+
+“You watched.”
+
+“I asked them to stop.”
+
+“After you knew how long I had believed them.”
+
+The wife rose.
+
+The lentil tray tilted against her knee. Several black stones rolled across the mat.
+
+“You should leave,” she said.
+
+It was not an insult. It was sensible. But after everything else, sense sounded like dismissal.
+
+The king’s sister stepped towards her.
+
+What she intended remained the first disputed fact of the war.
+
+She later said she meant to seize the wife’s wrist and force her to look at the woman she had pitied. One attendant, watching from the trees, swore the curved forest knife remained in its sheath. The other could not see her right hand.
+
+The northern account said she threatened to kill the wife and moved with her hand upon the knife.
+
+Shuka interrupted.
+
+“Which account do you believe?”
+
+The king looked at the empty cup between them.
+
+“I believe she was angry enough to frighten a woman.”
+
+“That was not my question.”
+
+“It is the answer I possess.”
+
+In the clearing, the prince moved before his sister reached the mat.
+
+He caught her right arm, turned it behind her back and forced her down. One knee struck the earth. Then the other. The forest knife remained at her waist. Whether her hand had reached for it no longer mattered. The prince held her wrist between her shoulder blades. She could not rise.
+
+The wife stepped away.
+
+“Let her go,” she said.
+
+The prince was breathing hard. “She threatened you.”
+
+“She cannot reach me now.”
+
+The younger brother had already stood. He held the small sword used for cutting heavy reeds and dressing game.
+
+The king’s sister saw the blade.
+
+She stopped struggling.
+
+That detail returned in every version she later told: the instant she became still because she believed stillness would prove she was no longer dangerous.
+
+The prince looked at his brother.
+
+He did not shout. He did not speak like a frightened man. His voice was controlled.
+
+“Mark her,” he said. “Then send her back to those who taught her to threaten women.”
+
+The younger brother came behind her.
+
+He gathered her hair in one hand.
+
+The first cut took the outer edge of her left ear. For a moment there was pressure but no pain, as though the blade had passed through someone else. The second cut caught the right earring and tore it free. Gold struck the lentil tray. Black stones scattered across the ground.
+
+The pain arrived all at once.
+
+She screamed.
+
+The prince continued to hold her.
+
+The wife turned her face away.
+
+The younger brother drew the blade across her nose.
+
+Then he released her hair.
+
+She fell forward onto both hands. Blood darkened the dust beneath her and ran between the scattered lentils.
+
+No one in the western room spoke.
+
+The wounded boy behind the screen shifted beneath his blankets. Outside, a water cart passed through the lower court, its wheels complaining beneath the weight of the palace reservoir.
+
+Shuka broke the silence.
+
+“The prince believed he was protecting his wife.”
+
+“He had protected her,” the king said. “My sister was restrained.”
+
+“She may have intended murder.”
+
+“Then bind her. Expel her. Bring her before the local authorities. If necessary, keep her under guard until anger becomes evidence.”
+
+The king leaned forward.
+
+“A man can protect one woman and be cruel to another in the same breath.”
+
+Shuka looked towards the open screen and the glow that remained over the northern quarter.
+
+“Like a captain protecting his water?”
+
+“Yes.”
+
+“You would compare your own officer to the northern prince?”
+
+“Cruelty does not become civilised because the man committing it knows my name.”
+
+The king’s sister ran from the clearing.
+
+Her attendants found her among the trees with part of her travelling cloak pressed across her face. One tried to lead her towards the nearest healer. She refused. She mounted her horse and rode south to the frontier post.
+
+The commander there saw her wound and asked no careful questions.
+
+He did not ask what she had said to the wife. He did not ask whether her hand had touched the knife. He saw a woman of the royal house with blood through her cloak and chose the beginning that demanded action.
+
+He sent fourteen armed men to seize the brothers.
+
+None returned.
+
+By the following evening, the frontier commander had moved against the clearing with his entire force.
+
+The two princes destroyed it.
+
+The king gave no names. He did not list the dead officers or the separate companies. This was partly kindness to Shuka and partly because numbers had a way of becoming arguments when spoken too precisely.
+
+“How many?” Shuka asked.
+
+“Enough that the northern road lay open afterward.”
+
+“Your men attacked them.”
+
+“After they cut my sister’s face.”
+
+“After she may have threatened the wife.”
+
+“After they settled armed men inside territory they said belonged to no one.”
+
+Shuka’s mouth tightened. “We can continue moving the beginning all night.”
+
+“That is what beginnings are for.”
+
+The king’s sister reached the island after the garrison had fallen.
+
+She crossed the strait in a cargo vessel because the passenger boats would not sail in bad weather. Salt dried white across her cloak. The wounds opened again during the journey. Someone had packed them with leaves that turned black against the skin.
+
+When she entered the king’s council hall, he was listening to an argument about sandalwood.
+
+A merchant had declared forty-two trunks at the eastern quay. The harbour assessor had counted forty-seven. The merchant claimed the remaining five were packing wood. The assessor maintained that packing wood did not usually smell of sandalwood.
+
+The dispute had lasted nearly an hour.
+
+The bronze doors opened without ceremony.
+
+The king’s sister walked in with one hand across her face.
+
+The sandalwood merchant stopped speaking. The harbour assessor stared. A scribe placed his writing board on the floor and forgot to remove his fingers from beneath it.
 
 The king rose.
 
-His sister removed her hand from her face.
+His sister lowered her hand.
 
-The end of her nose had been sliced away. Both ears were cut along their outer rims; the right was torn more deeply where its earring had been ripped free. The wounds had been made with a sharp blade and a steady hand. They were several days old. Heat and salt had swollen the flesh around them. Someone had packed them with leaves that had dried black against her skin.
+One of the merchants was sick into his sleeve.
 
-One of the merchants was sick into his own sleeve.
-
-His sister looked at him.
+She looked at him.
 
 “That seems excessive,” she said.
 
 It was the first thing she said in the hall.
 
-The king remembered it because it was exactly the kind of kindness she offered: she had been cut across the face, yet she rescued a stranger from the embarrassment of vomiting in front of his king.
+The king remembered it because it was exactly the kind of kindness she offered. She had been cut across the face, yet she rescued a stranger from the embarrassment of vomiting before his king.
 
 “Clear the room,” the king ordered.
 
 No one moved quickly enough.
 
-“Take your sandalwood, your lunch and your excellent arguments with you.” His voice rose only slightly. “If any man repeats what he has seen before my sister chooses to speak of it, I will discover whether packing wood floats.”
+“Take your sandalwood, your packing wood and your excellent arguments with you. If any man repeats what he has seen before my sister chooses to speak of it, I will personally test which kind of wood floats.”
 
-The merchant began gathering the wrong documents.
+The merchant gathered the wrong documents. The assessor took them from him, exchanged them for the correct ones and guided him out.
 
-His sister reached the council table and set something upon it.
+The king’s sister reached the council table.
 
-The missing earring made a small sound against the black wood.
+She placed her right earring on the black wood.
 
-It was bent nearly flat. A piece of dried skin remained caught in its clasp.
+It had been beaten almost flat. A piece of dried skin remained caught in the clasp.
 
 “Your northern guests have sent me home,” she said.
 
-The council emptied.
+The hall emptied.
 
-The sandalwood merchant left his lunch behind.
+The merchant left his lunch behind.
 
-In the western room, Shuka shifted his injured foot.
+The king sent for the physician. His sister refused a sleeping draught and answered questions through the half-open door while her wounds were cleaned.
 
-“Those were her exact words?”
+She told him about the river, the clearing and the two brothers.
 
-“Yes.”
-
-“Not ‘the northern prince’? Not ‘the younger brother’?”
-
-“My northern guests.”
-
-Shuka considered that.
-
-“She was reminding you that they had entered territory you claimed to protect.”
-
-“She did not need to remind me.”
-
-“But she did.”
-
-The king ran his thumb over the smooth hollow beneath his seal ring.
-
-His sister had understood courts. She knew that an injury suffered by a woman might be called a private quarrel, an unfortunate encounter or the result of her own temper. An injury delivered by foreign armed men inside the kingdom’s sphere of protection was harder to make small. So she had brought the border into the room with her.
-
-She had also brought an audience. She could have asked to see him privately. Instead she walked through the bronze doors while the council was sitting.
-
-At the time, he had thought this proved the scale of her humiliation.
-
-Later, he understood that it also ensured his.
-
-Behind the screen, the physician asked for more hot water.
-
-Mina’s younger sister emerged carrying a bowl stained pink. The yellow thread around her wrist was wet. She held the bowl away from her dress and tried not to look at its contents.
-
-“The hot-water room says the cistern is nearly empty,” she told the king.
-
-“Use the bathing boilers.”
-
-“Dharan says the bathing boilers are for the royal household.”
-
-“Tell Dharan that the royal household is currently leaking onto my carpet.”
-
-She glanced down at the reed mats.
-
-“Near your carpet.”
-
-“Thank you. Accuracy is a comfort.”
-
-She hurried away with the bowl.
-
-Shuka watched her go.
-
-“Did your sister come directly here?” he asked.
-
-The king did not answer at once.
-
-The rain had almost stopped. Drops gathered along the lower edge of the open screen and fell one by one onto the stone sill. Across the water, the enemy’s hammers had changed rhythm. Two quick blows now followed each slow one.
-
-“No,” he said.
-
-“Where did she go first?”
-
-“To Khara.”
-
-Khara was a kinsman of the royal house and commander of the frontier garrison at Janasthana. He had known the king’s sister since childhood and called her his sister, as close kin often did.
-
-“Then the day she entered your council hall was not the beginning.”
-
-The king watched a drop gather at the bottom of the screen and fall.
-
-“It was the beginning for me.”
-
-Shuka rested the cup upon his knee. “That is not the same thing.”
-
-“I am aware of the distinction.”
-
-“You did not make it.”
-
-The king looked at him.
-
-Shuka lifted the cup again. “I am injured, Majesty. Not timid.”
-
-“The night is young.”
-
-“It is four hours from an assault.”
-
-“Then you had better become timid efficiently.”
-
-Shuka drank.
-
-The king had learned of Khara’s death one day before his sister arrived. A coastal rider brought the message after changing horses at every post from the northern landing. The man had ridden so hard that the inside of his knees was raw. He collapsed in the lower courtyard and woke angry because someone had cut off his boots.
-
-The message itself contained twenty-three words.
-
-Khara dead. Dushana dead. Trishira dead. Janasthana garrison destroyed. Northern prince alive. Younger brother alive. Woman alive. Awaiting orders.
-
-The final two words had seemed insulting.
-
-There was no one left at Janasthana to receive an order.
-
-“You knew her face had been cut before she arrived,” Shuka said.
-
-“The rider said she had been injured.”
-
-“He did not say how?”
-
-“He had heard three versions. In one, her nose was broken. In another, she had lost an eye. In the third, her head had been carried through the forest on a spear.”
-
-Shuka’s mouth tightened.
-
-“The third seems unlikely.”
-
-“It occurred to me when she walked into the hall.”
-
-The king rose and crossed to the table. The split pomegranate lay open where Shuka had left it. Its pale inner skin had begun to dry around the seeds.
-
-“You want the earlier beginning,” he said. “Then we must go farther back than the forest.”
-
-Shuka waited.
-
-“Before the northern prince. Before Khara. Before my sister went to live on the mainland.”
-
-“Vidyujjihva,” Shuka said.
-
-The name entered the room quietly.
-
-Behind the screen, someone drew in a breath through clenched teeth. The physician said, “Again,” and the breath came more slowly.
-
-The king picked up the pomegranate but did not eat.
-
-Vidyujjihva had been his sister’s husband. The name meant lightning-tongued, though he had spoken slowly and disliked arguments. He was broad through the shoulders, poor at music and able to repair almost any buckle with a nail and a pair of cooking tongs. He belonged to the Kalakeya houses of the western uplands, families who had fought one another for generations and united only when an outsider gave them reason.
-
-The king had given his sister to him in marriage because the alliance secured two mountain passes.
-
-His sister had loved him despite that beginning.
-
-Perhaps, the king thought, she had loved him partly to prove that her brother had not arranged every part of her life.
-
-Years later, the Kalakeya houses rebelled.
-
-The campaign should have ended in twelve days. It continued for seven months.
-
-Roads disappeared beneath rain. Supply carts sank to their axles. Men died from infected feet before seeing an enemy. The Kalakeya fighters knew every cut through the hills and could loose three arrows from behind a ridge before the king’s soldiers found the path that led up to them.
-
-Vidyujjihva had tried to remain between the two sides. For three months he carried messages, argued for terms and was distrusted by everyone. Then one of his cousins was executed by an island commander who believed negotiation was another word for delay.
-
-After that, Vidyujjihva chose his mother’s people.
-
-The king chose the kingdom.
-
-Their armies met near a dry riverbed at dusk. Dust covered the standards. Units lost formation. Orders passed from one company to another until “hold the southern bank” became “kill everyone south of the river.”
-
-The king had approved the order that began the charge.
-
-Near midnight, when the fighting ended, a captain brought him Vidyujjihva’s sword and the copper marriage ring found beneath his armour.
-
-The king recognised the ring. His sister had made it herself and complained for two weeks that copper was too soft for a man who opened jars with a knife.
-
-“You did not strike the blow,” Shuka said.
-
-“No.”
-
-“But she said you killed him.”
-
-“Yes.”
-
-The king set the pomegranate back in its bowl.
-
-When he returned to the island, his sister had waited for him in the same council hall. She wore no widow’s white. She wore red, which was worse. Her husband’s copper ring hung from a cord around her neck.
-
-She had not wept.
-
-“You have made me a widow,” she said.
-
-He offered the explanation he had repeated to himself throughout the voyage home: the dust, the lost standards, the broken negotiations, Vidyujjihva’s decision to stand with rebels.
-
-She listened until he finished.
-
-“That is a fine explanation,” she said. “You should have it carved on his stone. It will keep him warm.”
-
-Then she left the hall.
-
-For the next year she refused every invitation to the palace.
-
-“So you gave her Janasthana,” Shuka said.
-
-“I gave her estates in Dandaka and authority over the southern trade road.”
-
-“Under Khara’s protection.”
-
-“With Khara’s garrison available to her.”
-
-Shuka tilted his head.
-
-“Is that different?”
-
-“It was written differently.”
-
-The smallest smile appeared on Shuka’s face.
-
-The king allowed it.
-
-He had called the grant restitution. It included forest land, two river tolls, resin rights and a share of the iron brought through Janasthana. His sister called it exile with an income.
-
-They had both been right.
-
-The palace contained too many rooms in which she might meet someone who had served in the Kalakeya campaign. Too many men lowered their eyes when she entered. Too many women touched their own wedding chains after speaking with her. The king had wanted her provided for. He had also wanted his guilt somewhere beyond the sea.
-
-“Did she forgive you?” Shuka asked.
-
-“She accepted the land.”
-
-“That was not my question.”
-
-“It is the answer she gave.”
-
-Shuka looked into his cup.
-
-The king’s sister made a life in Dandaka. Not the life he had imagined for her, which was probably why it succeeded.
-
-She learned the languages of the hunting settlements and the names of men who controlled crossings absent from every royal map. She settled disputes over salt, cattle, timber and marriage payments. She knew which forest headman could be trusted with silver, which one preferred iron tools, and which would accept neither but would remember the gift of a physician.
-
-She was careless with written accounts and exact with people. A tax collector might deceive her for three months and then discover that she remembered the name of his youngest daughter and the price he had paid for a lame mule the previous winter.
-
-She kept a public kitchen twice a month. She also had a man tied to a tamarind tree for selling grain during a famine at four times its proper price. When the man complained that ants were crawling inside his clothes, she ordered the guards to move him to a tree with fewer ants.
-
-That was considered mercy in Dandaka.
-
-She wrote to the king irregularly. Her letters contained complaints about road repairs, requests for midwives and descriptions of birds she knew he would never see. She never mentioned Vidyujjihva.
-
-Then the northern exiles arrived at Panchavati.
-
-Dharan entered the western room carrying a bundle of blankets high enough to hide his face. Two servants followed with more.
-
-He lowered the first bundle onto a chest.
-
-The top blanket was cream-coloured and embroidered with blue peacocks.
-
-The king recognised it.
-
-“Those are from the wedding store.”
-
-“The ordinary blankets are finished,” Dharan said.
-
-“My mother counted those every spring.”
-
-“Your mother is not presently available to object.”
-
-The king touched the embroidery. “She may return for the purpose.”
-
-“Then I shall tell her you authorised it.”
-
-“You have become very brave tonight.”
-
-Dharan looked towards the wounded men behind the screen. “There is less time to be cautious.”
-
-The king nodded.
-
-“Use them. Put the peacocks against the skin. The gold thread scratches.”
-
-The servants carried the blankets behind the screen. Soon the cream cloth was being spread over men whose armour had been cut from their bodies.
-
-Dharan remained.
-
-“A clerk from the water office is waiting outside.”
-
-“At this hour?”
-
-“He says the northern cistern tastes of ash.”
-
-“Water does not have to taste good tonight. It has to be wet.”
-
-Dharan waited, visibly unimpressed by the distinction.
-
-“He believes something from the burned quarter may have entered the channel.”
-
-The king looked at Shuka. “You see? Even water has chosen a side.”
-
-Shuka did not smile. “Hear the clerk.”
-
-The king sighed. “Send him in.”
-
-The clerk was young, round-faced and completely bald. Rain shone on his scalp. He clutched three wax tablets against his chest and bowed so low that one slid out and landed face down on the mat.
-
-“Leave it,” the king said. “What is in the water?”
-
-“Ash, Majesty. Perhaps lime. There may also be oil from the dyers’ quarter.”
-
-“Is it poisonous?”
-
-“Not immediately.”
-
-The king looked at him.
-
-“That is an answer physicians give when they would like to leave the room.”
-
-The clerk swallowed. “It will make people ill if they drink enough.”
-
-“Close the northern cistern. Open the palace reservoir to the lower wards. Post guards, but let every household take two pots before dawn.”
-
-“The palace reservoir is sealed for siege use.”
-
-“This is the siege.”
-
-The clerk found he had nothing further to add.
-
-“And send someone to the dyers’ channel,” the king said. “If the oil is still flowing, block it with sand. Not cloth. Cloth will carry it.”
-
-The clerk bowed again, retrieved his tablet and hurried away.
-
-Dharan watched him leave.
-
-“Two pots per household will empty half the reserve.”
-
-“Dead citizens are economical but poor taxpayers.”
-
-“I will amend the accounts.”
-
-“Put that under long-term planning.”
-
-Dharan left, his wrapped keys making one soft knock against his thigh.
-
-Shuka waited until the door closed.
-
-“Panchavati,” he said.
-
-The king returned to his chair.
-
-“Panchavati.”
-
-The name meant little to most people on the island then. Five old banyan trees beside a bend in the river. A clearing large enough for grazing. A shallow landing where boats could be pulled onto mud. The nearest permanent settlement lay half a day away.
-
-The northern prince called the place a hermitage.
-
-The king’s sister called it a fortified camp with a vegetable garden.
-
-Both descriptions were accurate.
-
-The brothers had built a timber house, dug a drainage trench and cleared sightlines through the trees. They hunted. They traded with nearby settlements. They received travelling ascetics, messengers and men from forest clans hostile to Khara’s garrison. They said they wanted to be left alone, but their privacy attracted visitors.
-
-“They were in exile,” Shuka said.
-
-“Armed princes do not become harmless because their fathers are angry with them.”
-
-“They had not attacked Janasthana.”
-
-“They were gathering friendships inside its boundary.”
-
-Shuka rubbed the cord mark on his neck.
-
-“Shurpanakha went to investigate?”
-
-“That was her account.”
-
-“And yours?”
-
-The king looked towards the lamp. One of its wicks had burned lower than the others.
-
-“She went because she had heard the elder brother was handsome.”
-
-Shuka’s eyebrows rose.
-
-“That was not included in the council record.”
-
-“The council record was written while she could see the scribe.”
-
-The king’s sister had been lonely. He had not understood that then, or had chosen not to understand it. Loneliness was inconvenient in people for whom one believed one had already made proper arrangements.
-
-She had land, authority, servants and relatives nearby. None of these shared her bed. None laughed at the private jokes Vidyujjihva had understood. None knew who she had been before widowhood became the first fact everyone remembered about her.
-
-She heard of a northern prince living by the river with the manners of a court and the face of a man who had not yet been made ordinary by comfort. She went to see him.
-
-She took two attendants but left them at the edge of the clearing. A troop would have made her visit official. A woman alone could pretend she had merely been walking.
-
-The prince was cutting reed shafts when she arrived. His wife sat near the house sorting lentils on a flat basket. The younger brother was repairing the binding on a bow.
-
-The king knew these details because his sister repeated them more than once. People remembered the objects around humiliation with painful clarity: the green cord around the bow, the small heap of black stones among the lentils, the older prince’s knife placed to his right where he could reach it without looking.
-
-She introduced herself.
-
-Not as the king’s sister. Not at first.
-
-She gave her name and said she governed estates to the south. She asked whose permission they had obtained to clear the riverbank.
-
-The elder prince replied that exiles required no court’s permission to build a roof in a forest.
-
-She said forests belonged most confidently to those who had never asked the people living in them.
-
-He laughed.
-
-“At her?” Shuka asked.
-
-“She said with her.”
-
-“Did she believe that?”
-
-“At first.”
-
-The king’s sister remained in the clearing. They spoke about the river, the settlements and the road south. The prince offered her water. His wife moved aside to make room on the mat.
-
-Nothing in the first part of the encounter required blood.
-
-Then his sister asked whether the prince intended to spend all his years of exile beside one bend in one river.
-
-He said his wife was content there.
-
-His sister asked whether he always allowed his wife to decide where he lived.
-
-The wife looked up from the lentils.
-
-The prince said it was easier than allowing his enemies to decide.
-
-His sister liked the answer.
-
-She asked him to marry her.
-
-Shuka waited for the king to soften the statement.
-
-The king did not.
-
-“She proposed marriage?”
-
-“Yes.”
-
-“While his wife sat beside them?”
-
-“My sister disliked making small requests.”
-
-Shuka rubbed his forehead with his good hand.
-
-“How did she expect that to end?”
-
-“Not as it did.”
-
-The king’s sister had not whispered. She told the prince that an alliance with her would secure his position in the south. She told him she had her own land and would not ask him to abandon his wife. Then, because honesty and provocation lived too close together in her, she added that one wife had never been considered an obstacle to a prince until northern poets needed a virtue.
-
-The prince smiled.
-
-He said he was devoted to the woman beside him and could not take another wife. But his younger brother, he said, was handsome, brave and without a wife in the forest. Perhaps she should ask him.
-
-The younger brother heard this and smiled too.
-
-When she turned to him, he said he was only his brother’s servant. Why would a woman of rank marry a servant? Better to become the elder brother’s younger wife. Surely, once the prince saw her properly, he would put aside the thin, tired woman currently sorting his food.
-
-The brothers passed her between them with words.
-
-Each answer appeared courteous until the next one revealed the joke.
-
-His sister understood at last that the wife had understood from the beginning.
-
-“Did the wife laugh?” Shuka asked.
-
-“My sister said no.”
-
-“Do you believe her?”
-
-The king thought about it.
-
-“Yes.”
-
-“Why?”
-
-“Because she hated the wife more for looking sorry.”
-
-Behind the screen, the physician told Ketu he could sleep. Mina said the boy’s skin was still cold. Someone tucked one of the peacock blankets more closely around him.
-
-The king continued.
-
-His sister had been mocked before. Every woman who spoke loudly in a hall full of men had been mocked. She had learned to answer ridicule with more ridicule, to make the first cruel joke about herself before someone less skilled attempted it.
-
-But she had offered something real in the clearing.
-
-Desire, perhaps. Loneliness certainly. An alliance, if the other things embarrassed her later.
-
-The brothers treated all of it as entertainment.
-
-She turned on the wife.
-
-“What did she say?” Shuka asked.
-
-“That accounts differ.”
-
-“Her account?”
-
-The king’s jaw tightened.
-
-“She said the wife had hidden behind the brothers’ joke and should learn what it was to stand alone.”
-
-“The attendants?”
-
-“One heard shouting. The other saw only the end.”
-
-Shuka placed the cup on the table.
-
-“And the northern account?”
-
-The king looked directly at him.
-
-“That my sister threatened to kill her.”
-
-The room seemed quieter after he said it.
-
-Even the wounded men behind the screen had settled. The only steady sound was water dripping from the open frame onto the sill.
-
-“Did she?” Shuka asked.
-
-“She was angry.”
-
-“That is not an answer.”
-
-“It is the answer people give when anger has made the truth inconvenient.”
-
-Shuka did not look away.
-
-The king rose again, although there was nowhere he needed to go.
-
-His sister carried a forest knife at her belt. It was a short, curved tool used for vines, fruit and rope. She told him she never drew it.
-
-One attendant said the knife remained in its sheath.
-
-The other said he could not see her right hand when she moved towards the wife.
-
-The northern brothers said she rushed forward and reached for the woman’s throat.
-
-The wife herself had given no public account.
-
-“You do not know,” Shuka said.
-
-“No.”
-
-“But you decided.”
-
-“I decided what followed was beyond defence.”
-
-The elder prince caught his sister by the arm before she reached the wife. He twisted it behind her and forced her to her knees.
-
-At that moment, the threat—if there had been one—was over.
-
-The prince could have bound her. He could have sent for the local headman. He could have expelled her from the clearing. He could have demanded that Khara remove her from the district.
-
-Instead he looked at his younger brother.
-
-No more jokes, he said. Mark her and send her away.
-
-The younger brother drew his sword.
-
-He did not move like a frightened man. He used one hand to take her hair. With the other, he cut the outer edge of one ear, then the other, and finally drew the blade across her nose.
-
-The right earring tore free. She fell forward. Blood struck the lentil basket and scattered the black stones across the ground.
-
-The younger brother released her hair.
-
-The elder brother watched.
-
-“He could have killed her,” Shuka said.
-
-The king turned from the window.
-
-“Is that his defence?”
-
-“It may have been mercy.”
-
-“It was a sentence.”
-
-Shuka considered this before answering.
-
-“It may have been both.”
-
-“A convenient kind of mercy. Leave the victim alive so she carries your message for you.”
-
-The king touched his own cheek without realising it.
-
-A face was not merely flesh. It was the first document a person presented to the world. To cut it deliberately was to alter every future meeting. Every stranger would ask what she had done. Every child would stare. Every man who disliked her would think the wound confirmed something he had always suspected.
-
-Death ended a punishment.
-
-Disfigurement recruited the future to continue it.
-
-“She threatened his wife,” Shuka said.
-
-“Perhaps.”
-
-“He protected her.”
-
-“He had already protected her. My sister was on her knees.”
-
-Shuka looked towards the screen hiding the wounded.
-
-“A man can protect one woman and be cruel to another in the same breath.”
-
-The king said nothing.
-
-The sentence was too balanced to reject and too dangerous to accept. It allowed the northern prince courage without goodness, love without innocence. It allowed the same complications in everyone.
-
-The king preferred enemies with fewer rooms inside them.
-
-“Will their songs remember that?” he asked.
-
-“Their songs will remember that she tried to kill his wife.”
-
-“And ours?”
-
-“That she went to discuss a boundary and was attacked for refusing to bow.”
-
-The king gave a humourless smile.
-
-“Then at least both kingdoms employ competent poets.”
-
-The door opened. Mina entered carrying a tray with two small bowls of rice water. A wooden spoon lay across each bowl.
-
-“The kitchen steward sent these for you,” she said.
-
-“For us?”
-
-“He said the seal authorised forty portions. It did not say the king could not have one.”
-
-The king lifted a spoon. “Did you strike him?”
-
-“No, Majesty.”
-
-“Then why are there two spoons?”
-
-Mina’s face remained solemn. “He wished to show that there were enough.”
-
-Shuka looked down quickly.
-
-The king tasted the rice water. There was too much ginger.
-
-“He is taking revenge.”
-
-“I believe so.”
-
-“Tell him it is excellent.”
-
-Mina understood. “That will trouble him.”
-
-She returned to the wounded.
-
-Shuka lifted his bowl and drank carefully. Steam touched his face.
-
-“Your sister left the clearing,” he said.
-
-“She ran.”
-
-The two attendants found her among the trees, pressing part of her cloak against her face. They tried to take her south towards a settlement with a healer. She refused. She mounted her horse and rode to Janasthana.
-
-Khara saw the wound.
-
-He did not ask the question Shuka had asked. He did not ask what had happened before the sword was drawn. He did not ask why she had gone alone or what she had said to the wife.
-
-He saw the king’s sister bleeding and chose the beginning that required him to act.
-
-“Fourteen men,” Shuka said.
-
-“At first.”
-
-Khara sent fourteen armed men to Panchavati before the healer had finished packing the wound. His orders were to bring the brothers back if they surrendered and kill them if they did not.
-
-“Did he expect surrender?” Shuka asked.
-
-“No.”
-
-“Then they were sent to kill them.”
-
-“Yes.”
-
-The king blew across the rice water.
-
-The fourteen men reached the clearing before dusk. None returned.
-
-At sunrise, one body was found on the southern path with a strip of white cloth tied around its wrist. The northern prince had released a wounded man to carry a warning, but the man died before reaching Janasthana.
-
-The warning was simple: send no one else.
-
-Khara sent everyone else.
-
-He marched with Dushana, Trishira and nearly the whole frontier garrison. The rolls later listed one thousand three hundred and eighty-six men missing or dead. By the time the account reached the island, grief and pride had enlarged them to fourteen thousand.
-
-The king did not correct the number.
-
-“Fourteen thousand made the defeat sound less foolish,” Shuka said.
-
-“It made the enemy sound more dangerous.”
-
-“And your response more necessary.”
-
-The king stirred the ginger settled at the bottom of his bowl.
-
-“Numbers serve whoever copies them last.”
-
-The battle did not happen as the surviving reports first claimed. One northern prince had not stood alone in an open field and killed an army.
-
-Khara’s force entered broken forest along a single road. The first companies found trees cut behind them and pits opened beneath leaves. Archers from local clans fired from the ridges. Men wearing the boar and langur marks appeared on both flanks. The northern brothers knew where Khara would advance because people inside Janasthana had told them.
-
-By midday, the garrison had become several smaller battles unable to reach one another.
-
-The elder prince fought in the centre. His younger brother guarded the house and the woman until the fighting moved east, then joined him. Khara died near the river. Dushana was found beneath his horse. Trishira’s three-plumed helmet lay twenty paces from his body, which was enough for later singers to give him three heads.
-
-The king had read every surviving account.
-
-He had marked the mistakes in the margins.
-
-Too many men on one road. No scouts on the western ridge. No reserve held behind the river. Khara pursued an insult instead of an objective. He allowed his enemy to choose the ground.
-
-The king could list these failures without pausing.
-
-It was easier than saying Khara had died because a wounded woman entered his room and he loved her.
-
-“They killed him,” the king said.
-
-Shuka set down his empty bowl.
-
-“After he sent men to kill them.”
-
-“After they cut my sister’s face.”
-
-“After she threatened the prince’s wife.”
-
-The king placed his spoon carefully across the bowl.
-
-“Perhaps.”
-
-Shuka leaned back, easing his foot.
-
-“Every beginning has another beginning behind it.”
-
-“If you go back far enough, no one is responsible for anything.”
-
-“If you begin late enough, everyone is innocent.”
-
-The king looked at him.
-
-Shuka held the gaze.
-
-Outside, the hammers stopped.
-
-The silence was followed by a rolling sound from beyond the wall, wood turning slowly against wood. The enemy was moving one of its towers.
-
-A guard appeared at the door.
-
-“Majesty, the northern watch asks whether they should light the oil trenches.”
-
-“Not yet.”
-
-“They can see movement near the salt road.”
-
-“If they light them now, the rainwater will carry burning oil into the lower houses.”
-
-The guard hesitated. “The watch commander says the wind is turning.”
-
-The king crossed to the screen and held one wet finger in the air. The room waited.
-
-The breeze touched the right side of his hand.
-
-“It has not turned enough. Tell him to wait for the red flag from the eastern tower. If the enemy reaches the third marker first, light only the centre trench.”
-
-“Yes, Majesty.”
-
-“And move the families out of the rope-makers’ lane. Do not ask them to carry furniture. They will try.”
-
-The guard left at a run.
-
-The king wiped his hand on his shawl.
-
-“People facing death are very attached to chairs,” he said.
-
-Shuka looked at the loose joint beneath him. “Some chairs have given long service.”
-
-“That one has spent the evening trying to kill a wounded spy.”
-
-“Then it has chosen a side too.”
-
-The king smiled.
-
-His sister arrived at the island after Khara’s defeat. She had crossed the strait in a cargo boat because the regular passenger vessel refused to leave during a storm. Salt had dried white across her cloak. The wound had opened again on the journey.
-
-She entered his council hall while the sandalwood merchant was explaining packing wood.
-
-Now, at last, the story had reached the beginning the king preferred.
-
-He had sent for the royal physician. The physician cleaned her face in a chamber behind the council hall while the king waited outside. His sister refused a sleeping draught. She answered questions through the half-open door.
-
-She told him about the clearing, the brothers and the sword.
-
-She told him about Khara’s death.
-
-She spoke the names of Dushana and Trishira without crying.
-
-Then she described the wife.
+She told him about the wife.
 
 Not briefly.
 
-She described the woman’s dark hair, the way she sat with one foot beneath her, the plain border of her yellow cloth, her hands moving through lentils. She described her face with an attention that made the physician stop working.
+She described the woman’s dark hair and sun-marked arms. She described the plain border of her yellow cloth and the way she sat with one foot folded beneath her. She described her hands moving through lentils.
 
-The king asked why this woman mattered.
+Most of all, she described the prince watching her.
 
-His sister answered from behind the door.
+When the wife leaned towards the cooking fire, he noticed. When she went inside the timber house, part of his attention followed. Even while speaking to another person, he seemed to know where she was.
 
-Because he loves her.
+The king’s sister understood the value of that attention because, for a short time, she had wanted it for herself.
 
-“Those were her words?” Shuka asked.
+“Take her,” she said from behind the physician’s door.
 
-“Yes.”
+The king thought pain had confused her.
 
-“Nothing about her beauty?”
+“I will not answer what they did to one woman by harming another.”
 
-“A great deal about her beauty.”
+His sister laughed once. The sound became a cry when it pulled against the stitches.
 
-Shuka waited.
+“Then do not harm her,” she said. “Bring her here. Feed her from gold. Put ten women around her and do not let a man touch the edge of her dress. Let him cross the sea and ask you for what he watched his brother take from me.”
 
-The king looked out towards the causeway.
+“She is not responsible for your face.”
 
-His sister had said the woman was unlike the painted daughters of courts. Sun had darkened her arms. Forest thorns had marked her ankles. Her hair had been tied without jewels. Yet the prince watched the clearing through her movements. When she leaned towards the fire, he noticed. When she went inside the house, some part of his attention followed.
+“No. She is the reason he believed he could give me this face and still sleep.”
 
-His sister understood the value of that attention.
+The king stood outside the half-open door with his hands closed at his sides.
 
-Take her, she had said. Let him learn what remains of a man when the person through whom he sees the world is gone.
+“He will come for her,” his sister said.
 
-The king had told her she was fevered.
+“That is what you want.”
 
-She had laughed, then cried because laughing pulled the stitches in her face.
+“I want him to stand before someone who can ask by what law his brother marked me.”
 
-Take her, she repeated. If you want justice for me, take what he protected while he watched them mark me.
+“And if he recognises no law here?”
 
-“She asked you to abduct the woman,” Shuka said.
+“Then at least he will recognise loss.”
 
-“She asked me to answer an attack on my house.”
+In the western room, Shuka studied the king.
 
-“By abducting the woman.”
+“She proposed the abduction.”
 
-The king’s voice cooled. “By taking a royal hostage whose husband had destroyed my frontier command.”
+“She proposed a hostage.”
 
-Shuka looked at him for several breaths.
+“Was that her word?”
 
-“Did you call her a hostage then?”
+“It became mine.”
 
-“That is what she became.”
+“When?”
 
-“That is not what I asked.”
+The king looked towards the empty cups.
 
-The king moved away from the screen.
+“After I had called it several other things and found that one sounded honourable.”
 
-The woman had not yet possessed a name in his mind. She was the wife in the clearing. The object around which the brothers’ discipline had broken. The reason the elder prince had ordered another woman marked rather than merely expelled.
+Shuka’s expression changed slightly. He had expected defence, not admission.
 
-She was also, if his sister’s description was true, beautiful.
+The king continued before the spy could use it.
 
-He had not admitted that this mattered.
+The northern prince was an exile. He claimed no throne and acknowledged no southern court. His brother had mutilated a woman under the king’s protection. Together they had killed the first men sent after them and destroyed the frontier force that followed.
 
-Men rarely lied to themselves in complete sentences. They arranged facts in a favourable order and allowed the conclusion to arrive looking innocent.
+To march an army into the forest would have begun a wider war. To ignore them would have declared the southern territory ownerless. To demand compensation required someone willing to receive the demand.
 
-The northern prince had entered protected territory.
+The prince had made himself unreachable by ordinary law.
 
-His brother had disfigured the king’s sister.
+The wife was not merely a wife. She was a princess of another kingdom, a person of rank and political value. Taking her would force the prince out of the forest and into negotiation.
 
-Together they had killed Khara, Dushana, Trishira and the frontier garrison.
+That was how the king arranged the facts.
 
-Their wife was a princess of another kingdom and therefore a person of political value.
+He would bring her to the island unharmed. She would be housed in the garden compound, not a prison. Women would attend her. No man would enter without permission. She would not be bound. She would eat what she chose and keep her own clothing. If the prince withdrew from the southern territory and answered for what had been done, she would be returned.
 
-Taking her would force the brothers out of the forest and into ground where the king could see them.
+One person held against an army.
 
-It would demonstrate that an injury against his family carried a price.
+At the time, it had sounded like restraint.
 
-It would restore his sister’s honour.
+“Did she agree to become your restraint?” Shuka asked.
 
-It would secure the southern frontier.
+“Hostages rarely select themselves.”
 
-It would punish the man who had watched.
+“Guests do.”
 
-Each statement contained enough truth to stand upright by itself.
+The king’s eyes narrowed. “I did not call her a guest.”
 
-Together they concealed the desire moving among them.
+“Not then?”
 
-“I had to answer,” the king said.
+The question remained between them.
 
-Shuka looked tired now. Not merely from the injured foot or the cord around his throat. He looked tired in the way of a man who had followed an argument through many rooms and found the same locked door at the end of each one.
+Outside, another water cart crossed the palace court. A child’s voice counted the jars as they passed. At eleven, the counting began again because one jar had been missed.
 
-“You could have sent a demand,” he said.
+Shuka rested his injured hand upon his knee.
 
-“To whom? An exiled prince claiming no court?”
+“His wife did not hold the sword,” he said.
 
-“You could have demanded compensation.”
+“The children of the northern quarter did not poison their own water.”
 
-“For a face? For fourteen men? For Khara?”
+“Then you understand why taking her was wrong.”
 
-Shuka touched the empty bowl with one finger.
+The king looked out through the open screens.
 
-“You could have asked what happened.”
+Below, servants rolled palace water towards houses the enemy had decided were part of a wall. A clean jar travelled at the centre of six armed men. The city’s wealth had become what it should always have been: something useful when ordinary people were frightened.
 
-“I knew what happened.”
+“I understand why a man who harms the innocent should not complain when innocence ceases to protect what he loves,” he said.
 
-“You knew what your sister remembered while fevered and grieving.”
+Shuka was quiet.
 
-The king’s anger returned, but more slowly than before.
+The king leaned back. Fatigue had begun to enter his face, not dramatically but in the small delay before each movement. He had spent the last hour saving water for a city that might not belong to him by sunrise.
 
-“Do you think she invented the blade?”
+“A king who answers every insult with blood is a butcher,” he said. “But a king who answers none is merely a clerk recording the disappearance of his country.”
 
-“No.”
+“So you took her.”
 
-“The dead?”
+“I gave an order that she was to be brought without injury.”
 
-“No.”
+“And treated well.”
 
-Shuka looked towards the wounded men hidden by the screen.
+“Better than they treated my sister.”
 
-“I think pain can tell the truth and still leave things out.”
+It was not an answer.
 
-The king followed his gaze.
-
-Ketu slept beneath a blanket embroidered for a wedding that had taken place twenty-six years earlier. His sister sat beside him, one hand resting near his uninjured shoulder. The physician was washing blood from his instruments in a bowl meant for floating flowers.
-
-Every object in the room had been made for another purpose.
-
-The king wondered whether people were any different.
-
-“They began it,” he said.
-
-Shuka’s eyes returned to him.
-
-“The brothers?”
-
-“Yes.”
-
-“With the sword?”
-
-“With the laughter.”
-
-Shuka considered the answer.
-
-Beyond the wall, the first alarm bell began to ring.
-
-“Then why,” he asked, “did you take the woman?”
+That night, with smoke from the poisoned cistern hanging over the city and palace water moving north beneath armed guard, it sounded dangerously like one.

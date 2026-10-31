@@ -4,6 +4,8 @@
 
 A ten-chapter literary novel by **KP**.
 
+The current edition contains Chapters One to Four. Chapter Three has its own restrained rose-and-ashoka reading palette; the reader may still choose light or dark mode.
+
 The manuscript lives in the \`manuscript/\` folder as clean Markdown. The reading website is generated automatically, so the prose remains easy to edit in GitHub without working inside HTML.
 
 ## Repository
@@ -20,6 +22,10 @@ Recommended location: **kpnovix-max/before-the-songs**
 4. Commit the change to \`main\`.
 
 The included workflow rebuilds the mobile reading site after every commit.
+
+## Replace the current GitHub version
+
+Upload the contents of this package into the repository root and allow GitHub to replace files with matching names. Do not delete the repository or its settings. Commit the upload to `main`; the Pages workflow will rebuild all available chapters automatically.
 
 ## Publish with GitHub Pages
 

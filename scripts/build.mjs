@@ -95,7 +95,7 @@ const chapterPlan = [
   {
     title: "The Guest in the Garden",
     teaser:
-      "Among trees planted for pleasure, one unwilling guest keeps company with the silence.",
+      "In a garden dressed in pink, even longing is washed, braided and carefully fed.",
   },
   {
     title: "The Brother Who Crossed",
@@ -316,7 +316,7 @@ function buildChapter(chapter) {
   return documentShell({
     pageTitle: chapter.title + " — Before the Songs",
     description: chapter.number + ": " + chapter.title,
-    className: "reader-page",
+    className: `reader-page chapter-theme-${chapter.index + 1}`,
     base: "../",
     content,
   });

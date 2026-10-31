@@ -33,6 +33,35 @@
   --shadow: rgba(0, 0, 0, 0.42);
 }
 
+/* Chapter Three carries its garden into the page without sacrificing contrast. */
+body.chapter-theme-3 {
+  --bg: #f4e8e5;
+  --bg-elevated: #f8efec;
+  --paper: #fff8f4;
+  --text: #332321;
+  --text-soft: #624b49;
+  --muted: #8c706d;
+  --line: rgba(128, 76, 74, 0.2);
+  --copper: #aa5d62;
+  --copper-bright: #bd7176;
+  --ember: #7d3f48;
+  --shadow: rgba(95, 54, 55, 0.15);
+}
+
+:root[data-theme="dark"] body.chapter-theme-3 {
+  --bg: #160f11;
+  --bg-elevated: #201619;
+  --paper: #281b1e;
+  --text: #f1e5e2;
+  --text-soft: #d2b8b5;
+  --muted: #9c7e7c;
+  --line: rgba(221, 165, 166, 0.2);
+  --copper: #c77d82;
+  --copper-bright: #dc9ba0;
+  --ember: #8f4e59;
+  --shadow: rgba(0, 0, 0, 0.42);
+}
+
 * {
   box-sizing: border-box;
 }
