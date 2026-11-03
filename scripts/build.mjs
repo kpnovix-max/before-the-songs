@@ -125,7 +125,7 @@ const chapterPlan = [
   {
     title: "Four Hours Until Dawn",
     teaser:
-      "The lamps burn low; the city counts hours while its king counts explanations.",
+      "The lamps burn low; four hours remain, and a king must decide what the fire will not take.",
   },
   {
     title: "Before the Songs",
@@ -214,7 +214,7 @@ function buildHome() {
           Begin reading <span aria-hidden="true">→</span>
         </a>
       </div>
-      <p class="cover__scroll">The last night of a kingdom</p>
+      <p class="cover__scroll">A kingdom before the songs</p>
     </section>
 
     <section class="premise" aria-labelledby="premise-title">
@@ -223,13 +223,18 @@ function buildHome() {
         <h2 id="premise-title">History has already chosen its ending.</h2>
       </div>
       <div class="premise__story">
-        <p>By the time dawn reaches the copper roofs, the victors will have names for everything. Courage will belong to one shore. Wickedness will belong to the other. A complicated war will be cleaned, polished and made simple enough to sing.</p>
-        <p>But dawn has not yet arrived.</p>
-        <p>Night lies warm upon the city. Salt gathers on the palace screens. The corridors smell of sesame oil, wet stone and jasmine bruised beneath hurried feet. From the kitchens comes woodsmoke and the sweetness of coconut; from the harbour, tar, fish and rope soaked by the southern sea. Servants carry clean linen past wounded soldiers. Somewhere below, a carpenter is still being asked to mend a hinge—as though the palace expects another season.</p>
-        <p>In an upper room, a king waits with a man who was not expected to return. Before them are four hours, a jug of water and the small practical decisions by which a kingdom continues while it is ending.</p>
-        <p>The king has been a scholar, musician, builder, brother, husband and ruler. He has opened granaries during bad rains and closed his hand when mercy would have cost him pride. He is clever enough to recognise his mistakes and human enough to rename them.</p>
-        <p>Outside, an army prepares the story that generations will inherit. Inside, two men examine the one that will disappear.</p>
-        <p>No gods. No demons. Only gifted, frightened human beings—and the explanations by which they learn to live with what they have done.</p>
+        <p>When the songs are written, the victors will have names for everything. Courage will belong to one shore. Wickedness will belong to the other. A complicated war will be cleaned, polished and made simple enough to sing.</p>
+        <p>But the songs have not yet been written.</p>
+        <p>Night lies warm upon the city. Salt gathers on the palace screens. The corridors smell of sesame oil, wet stone and jasmine bruised beneath hurried feet. From the kitchens comes woodsmoke and the sweetness of coconut; from the harbour, tar, fish and rope soaked by the sea. Servants carry clean linen past wounded soldiers. Somewhere below, a carpenter is still being asked to mend a hinge—as though the palace expects another season.</p>
+        <p>In an upper room, a king waits with a man who was not expected to return. Between them stand a jug of water, an unfinished meal and a report neither can afford to misunderstand.</p>
+        <p>The king wants to know how the enemy intends to win.</p>
+        <p>The returned man has also brought back a version of why.</p>
+        <p>Their conversation follows them out of the room: through corridors where servants make way, into gardens where another life waits, towards walls that no longer keep the sounds of war outside. Night gives way to day. The lamps are lit again. Between one order and the next, there is still water to fetch, a wound to dress, someone asking where the clean cloth has gone.</p>
+        <p>The king has been a scholar, musician, builder, brother, husband and ruler. He knows how to hear a fault in a string, a weakness in an argument and a hesitation in a report. He is clever enough to recognise his mistakes and human enough to rename them.</p>
+        <p>Now the city needs more from him than an explanation.</p>
+        <p>Beyond its walls, an enemy is building a road towards victory. Within them, cooks, physicians, soldiers and engineers continue the small practical work by which a kingdom insists upon tomorrow.</p>
+        <p>There are people here who love their king. There are people with reasons not to. Some have been protected by his decisions. Others are still living inside them.</p>
+        <p>Before anyone becomes a god or a monster, there is a person deciding what to do next.</p>
       </div>
     </section>
 
@@ -253,7 +258,7 @@ function buildHome() {
   return documentShell({
     pageTitle: "Before the Songs — A novel by KP",
     description:
-      "On the last night of a kingdom, a king tells the story that history will not preserve.",
+      "Across two nights and the day between them, a king fights for his city—and for a life the songs may never remember.",
     className: "home-page",
     base: "",
     content,

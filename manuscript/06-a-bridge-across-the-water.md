@@ -2,6 +2,8 @@
 
 ## A Bridge Across the Water
 
+Beyond the western screen, the last light had left the sea. Servants were lighting the palace lamps again. Someone had cleaned and refilled the table lamp while the king was at the wall; fresh wicks burned above the oil, and the blackened cotton from the previous night lay in a shallow dish beside it.
+
 The palace floor moved beneath them.
 
 It was not a large movement. The water in the silver cup trembled. A brass lamp rang once against its chain. Dust loosened from the painted beam above the western window and fell upon the black table, settling over the unsigned death order, the salt-road map and the broken clasp that had belonged to Kumbhakarna.
@@ -1158,7 +1160,7 @@ Shuka stood.
 
 “You should not go to the wall.”
 
-“That sentence has had a very unsuccessful night.”
+“That sentence has had a very unsuccessful day.”
 
 “The physician will blame me.”
 

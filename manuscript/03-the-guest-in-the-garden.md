@@ -42,7 +42,7 @@ The path to the outer gate was longer by thirty-seven steps.
 
 She knew because she had counted them.
 
-The gate was made of sandalwood reinforced with bronze. It possessed no bars on the inside. It did not require them. The lock was on the other side.
+The gate was made of sandalwood reinforced with bronze. It possessed no bars on the inside. It did not require them. The key was kept on the other side.
 
 For the first month she refused everything that had not belonged to her in the forest. She slept on a reed mat rather than the low bed. She washed her own clothes and hung them where court silk could be seen dripping beside the king’s pink roses. She returned trays of sweet cakes untouched and ate only rice, fruit and greens. When Mala brought a copper mirror, she turned it face down.
 

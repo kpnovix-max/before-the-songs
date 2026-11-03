@@ -22,7 +22,7 @@ The chamberlain considered this.
 
 “That narrows it less.”
 
-Shuka stood a little behind them, leaning against the parapet to spare his injured foot. The first grey suggestion of dawn had not yet reached the sea, but the darkness above the eastern roofs had thinned. Smoke held the city beneath a second, lower night.
+Shuka stood a little behind them, leaning against the parapet to spare his injured foot. Firelight spread through the smoke above the eastern roofs, turning its lower edges grey. Beyond it, the sea remained black. The city had entered its second night since his return.
 
 The king turned from the balcony.
 
@@ -1284,7 +1284,7 @@ Shuka tucked the peace tablet inside his robe. The white strip of bandage hung f
 
 “That is not what I asked,” Shuka replied.
 
-The king looked towards the east, where the darkness had thinned another shade.
+The king looked towards the east, where a change in the wind had drawn the smoke aside and uncovered another line of enemy torches.
 
 “No,” he said.
 

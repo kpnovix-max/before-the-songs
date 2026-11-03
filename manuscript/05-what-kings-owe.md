@@ -1986,7 +1986,7 @@ Then the king looked towards the northern smoke.
 
 They stood together in the western room.
 
-The split pomegranate still lay upon the black table from a morning that now seemed to belong to another reign. Its exposed seeds had dried nearly black. Beside it were Vibhishana’s salt-road map, the blue cord, the unsigned execution order and one damaged clasp from the dead brother’s armour.
+The split pomegranate still lay upon the black table from the previous night, which now seemed to belong to another reign. Its exposed seeds had dried nearly black. Beside it were Vibhishana’s salt-road map, the blue cord, the unsigned execution order and one damaged clasp from the dead brother’s armour.
 
 An armourer had brought it from a wounded soldier who found it near the kiln line.
 
@@ -2104,7 +2104,7 @@ Shuka waited until the curtain settled.
 
 The king looked towards the empty doorway.
 
-For most of the night he had spoken of brothers without naming them. One name had become treason. The other had become a legend before the body returned.
+Since Shuka’s return he had spoken of brothers without naming them. One name had become treason. The other had become a legend before the body returned.
 
 “When we were children,” the king said, “he believed music lived inside the grain jars.”
 

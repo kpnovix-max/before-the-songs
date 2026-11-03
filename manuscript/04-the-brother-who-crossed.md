@@ -326,7 +326,7 @@ Truth did not always require a lie in order to be betrayed. Sometimes it needed 
 
 ***
 
-Six nights earlier, Shuka had left the northern prince’s command tent with rope burns around his neck and both hands free.
+Only hours earlier, Shuka had left the northern prince’s command tent with rope burns around his neck and both hands free.
 
 The forest soldiers had been instructed to show him anything he had failed to inspect before sending him back across the causeway. Several appeared delighted by the order. One offered to show him the latrine pits. Another said this would be unfair because the pits were their strongest defence.
 
@@ -358,11 +358,11 @@ The causeway fires stretched behind them. Men moved over the new road carrying t
 
 “You watched the officers rather than the food.”
 
-“That is what I told your brother.”
+“That is what I will tell your brother.”
 
 “He will enjoy it.”
 
-“He did.”
+“I hope so.”
 
 Vibhishana looked towards the island.
 

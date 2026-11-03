@@ -8,7 +8,7 @@ He had not expected the man back. Spies returned in pieces, if an enemy wished t
 
 The western room smelled of damp stone, old jasmine and the sharp vinegar the cleaners had used on the floor. Four flames burned in the five-branched lamp. The fifth wick had slipped beneath the sesame oil, leaving a thin black crescent above the wall niche. Sea air pressed against the wooden screens, but the screens had been shut for three days because one of their hinges had begun to pull away from the frame. Even in a palace faced with polished copper and pale shell, a loose hinge could spoil a wall if nobody attended to it.
 
-“Open both screens,” the king said. “Put a stool beneath the broken one until the carpenter comes. Move the wounded boys from the southern passage in here before midnight; the roof there is leaking again. And have someone clean that lamp. If the wick drowns twice, the oil is dirty.” He looked at the guard. “Now bring me the man whom our enemy chose not to kill.”
+“Open both screens,” the king said. “Put a stool beneath the broken one until the carpenter comes. Move the wounded boys from the southern passage in here before the next watch; the roof there is leaking again. And have someone clean that lamp. If the wick drowns twice, the oil is dirty.” He looked at the guard. “Now bring me the man whom our enemy chose not to kill.”
 
 The guard bowed and left with the relief of someone who had successfully delivered bad news.
 

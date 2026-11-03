@@ -300,7 +300,7 @@ One plains captain frowned.
 
 “They want a court to decide whether he keeps another man’s wife?”
 
-“No,” the forest commander said. “The woman decides. The court records.”
+“No,” the forest commander said. “The princess decides. The court records.”
 
 The captain looked dissatisfied by the distinction.
 
@@ -386,7 +386,7 @@ Shuka looked towards the broken approach.
 
 The plains captain stepped forward.
 
-“Majesty, we can receive the woman first. Once she is safe, whatever dispute remains can be decided later.”
+“Majesty, we can receive the princess first. Once she is safe, whatever dispute remains can be decided later.”
 
 “By whom?” the prince asked.
 
@@ -768,7 +768,7 @@ The prince read the remaining lines, then looked towards the city.
 
 He gave the last word the faintest pressure, as though civilisation were an ornament the king had placed upon his fear.
 
-“He has surrendered his demand for a hearing,” Shuka said. “He has surrendered his sister’s claim as a condition. He will return the woman directly. He asks one thing: that you withdraw after receiving her.”
+“He has surrendered his demand for a hearing,” Shuka said. “He has surrendered his sister’s claim as a condition. He will return your wife directly. He asks one thing: that you withdraw after receiving her.”
 
 “I read it,” the prince replied.
 
@@ -1056,7 +1056,7 @@ Her attendants had left a lamp beside the low writing table. A half-peeled guava
 
 The garden gate stood at the end of the path.
 
-It was made from dark wood bound with three iron straps. For months it had opened for food, linen, physicians, books and every comfort that could enter without becoming freedom. Two women of the inner guard stood beside it.
+It was made from dark sandalwood bound with three bronze straps. For months it had opened for food, linen, physicians, books and every comfort that could enter without becoming freedom. Two women of the inner guard stood beside it.
 
 The king held out his hand.
 
@@ -1238,7 +1238,7 @@ The question carried no anger when she asked it. Only exhaustion.
 
 The king had no answer.
 
-The woman sat beneath the ashoka tree.
+Midnight had passed. The woman sat beneath the ashoka tree.
 
 Pink petals settled upon her hair and shoulders. One landed upon the tablet containing the prince’s refusal. The young archivist reached to brush it away, then changed her mind and left it where it had fallen.
 

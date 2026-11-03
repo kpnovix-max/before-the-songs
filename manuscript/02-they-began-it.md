@@ -62,7 +62,7 @@ Shuka lowered himself onto it.
 
 “This is undignified,” he said.
 
-“You returned from the enemy with one sleeve, half a sandal and a swollen foot. Dignity has already left by another door.”
+“You returned from the enemy with one sleeve, no sandals and a swollen foot. Dignity has already left by another door.”
 
 The king stepped into the passage.
 
@@ -108,7 +108,7 @@ The palace’s northern gate stood open. Water carts rolled through it in both d
 
 The king took the steep road on foot.
 
-He had worn no crown in the western room, only a plain dark tunic with the sleeves folded once at the wrist. He had not stopped to put on sandals suited to rain. Mud climbed the leather of the pair he wore. Twice, officials attempted to intercept him with questions. He answered without slowing.
+Before leaving the western room, he had pulled a plain dark tunic over the white cloth at his waist and pushed his feet into the nearest sandals. He had not chosen a pair suited to rain. Mud climbed the leather. Twice, officials attempted to intercept him with questions. He answered without slowing.
 
 “The grain store?” asked one.
 

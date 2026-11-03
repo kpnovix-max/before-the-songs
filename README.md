@@ -4,7 +4,7 @@
 
 A ten-chapter literary novel by **KP**.
 
-The current edition contains Chapters One to Eight. Chapters Nine and Ten remain forthcoming. Chapter Three has its own restrained rose-and-ashoka reading palette; the reader may still choose light or dark mode.
+The complete edition contains all ten chapters. Chapter Three has its own restrained rose-and-ashoka reading palette; the reader may still choose light or dark mode.
 
 The manuscript lives in the \`manuscript/\` folder as clean Markdown. The reading website is generated automatically, so the prose remains easy to edit in GitHub without working inside HTML.
 
@@ -51,7 +51,7 @@ Then serve the generated \`dist/\` folder with any static web server.
 - \`manuscript/\` — authoritative chapter text
 - \`assets/\` — reading design and controls
 - \`scripts/build.mjs\` — dependency-free Markdown site builder
-- \`dist/\` — generated site, deliberately excluded from Git
+- \`dist/\` — generated reading site
 - \`.github/workflows/pages.yml\` — automatic GitHub Pages publication
 
 ## Rights
