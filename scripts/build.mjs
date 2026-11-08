@@ -49,7 +49,7 @@ function renderMarkdown(markdown) {
           renderInline(block.replace(/^> ?/gm, "").replace(/\n/g, " ")) +
           "</p></blockquote>";
       }
-      if (block === "---" || block === "***") return "<hr>";
+      if (block === "---") return "<hr>";
       return "<p>" + renderInline(block.replace(/\n/g, " ")) + "</p>";
     })
     .join("\n");
@@ -83,45 +83,55 @@ const chapters = chapterFiles.map(readChapter);
 
 const chapterPlan = [
   {
-    "title": "The Boat That Left",
-    "teaser": "Some journeys begin before anyone is ready to leave."
+    title: "The Returned Man",
+    teaser:
+      "He returned in one piece, hungry but satisfied with one version of the story.",
   },
   {
-    "title": "The Other Shore",
-    "teaser": "The sea had delivered them. It had promised nothing else."
+    title: "They Began It",
+    teaser:
+      "A wound enters the room before the woman who carries it, and every cause acquires an ancestor.",
   },
   {
-    "title": "The Man Who Didn't Come",
-    "teaser": "There are many ways to lose someone."
+    title: "The Guest in the Garden",
+    teaser:
+      "In a garden dressed in pink, even longing is washed, braided and carefully fed.",
   },
   {
-    "title": "The Names We Lost",
-    "teaser": "Not everyone who disappears is gone."
+    title: "The Brother Who Crossed",
+    teaser:
+      "A brother discovers that leaving and betraying can wear the same footprints.",
   },
   {
-    "title": "The House Across the Water",
-    "teaser": "Some distances cannot be measured in miles."
+    title: "What Kings Owe",
+    teaser:
+      "A crown weighs least in ceremony and most when an ordinary life waits upon a word.",
   },
   {
-    "title": "The Things They Forgot",
-    "teaser": "What remains of a life when others begin telling it?"
+    title: "A Bridge Across the Water",
+    teaser:
+      "Across the dark water, impossible things begin as measurements, rope and sleepless hands.",
   },
   {
-    "title": "The Boat That Stayed",
-    "teaser": "There are journeys made to return home, and journeys made to discover what home has become."
+    title: "The Shape of Ten Men",
+    teaser:
+      "A man is given many faces by those who need only one of them to be hated.",
   },
   {
-    "title": "The Unopened Door",
-    "teaser": "There are things that time cannot make easier."
+    title: "The Last Honest Thing",
+    teaser:
+      "At the edge of defeat, mercy and pride begin to resemble one another.",
   },
   {
-    "title": "The Children of the Island",
-    "teaser": "Every generation inherits something it does not understand."
+    title: "Four Hours Until Dawn",
+    teaser:
+      "The lamps burn low; four hours remain, and a king must decide what the fire will not take.",
   },
   {
-    "title": "The Other Song",
-    "teaser": "The words were different. The melody was familiar."
-  }
+    title: "Before the Songs",
+    teaser:
+      "Before memory makes gods and monsters, two men choose what can still be said.",
+  },
 ];
 
 const chapterNames = [
@@ -182,9 +192,9 @@ function buildHome() {
 
   const content = `
   <header class="site-bar">
-    <a class="wordmark" href="./" aria-label="After the Songs, home">
+    <a class="wordmark" href="./" aria-label="Before the Songs, home">
       <span class="wordmark__mark"></span>
-      After the Songs
+      Before the Songs
     </a>
     <button class="icon-button" type="button" data-theme-toggle aria-label="Change colour theme">
       <span aria-hidden="true">◐</span>
@@ -196,47 +206,35 @@ function buildHome() {
       <div class="cover__halo" aria-hidden="true"></div>
       <div class="cover__content">
         <p class="cover__kicker">A ten-chapter novel</p>
-        <h1 id="book-title"><span>After</span><span>the Songs</span></h1>
+        <h1 id="book-title"><span>Before</span><span>the Songs</span></h1>
         <div class="cover__rule" aria-hidden="true"></div>
-        <p class="cover__tagline">They survived the war.<br>The truth would have to survive them.</p>
+        <p class="cover__tagline">By dawn, one man will be a god.<br>The other will be a monster.</p>
         <p class="cover__author">By KP</p>
         <a class="primary-link" href="${chapters[0]?.href ?? "#chapters"}">
           Begin reading <span aria-hidden="true">→</span>
         </a>
       </div>
-      <p class="cover__scroll">A kingdom after the songs</p>
+      <p class="cover__scroll">A kingdom before the songs</p>
     </section>
 
     <section class="premise" aria-labelledby="premise-title">
       <div class="premise__heading">
         <p class="section-label">The novel</p>
-        <h2 id="premise-title">Across the water, they remembered differently.</h2>
+        <h2 id="premise-title">History has already chosen its ending.</h2>
       </div>
       <div class="premise__story">
-        <p>The songs had been written.</p>
-        <p>They had given the brave their names, the wicked their faces, and the dead their proper places.</p>
-        <p>But across the water, there were people who remembered differently.</p>
-        <p>There are things the sea does not return.</p>
-        <p>A sandal washed from a child’s foot. A wooden toy that slips between the planks of a boat. The sound of a familiar voice calling from another room. A house with its lamps still burning, though nobody who lived there will ever see it again.</p>
-        <p>And there are things the sea carries to the other shore.</p>
-        <p>Children who have forgotten their names. Women clutching bundles of clothing that belong to people who did not come. Men who can no longer remember whether they were brave. A little girl who has been told she is safe, and who cannot understand why everyone keeps saying it.</p>
-        <p>The boats have arrived.</p>
-        <p>The fires are far away now. Salt dries upon the children’s faces. Wet clothes hang between trees whose names nobody knows. Someone is boiling water. Someone is counting the living. Someone has begun to sing, very softly, because there is a child who will not sleep.</p>
-        <p>The girl listens.</p>
-        <p>She has been listening for something else.</p>
-        <p>There was a time when she knew exactly where she belonged. She knew the sounds of her home, the smell of its corridors after rain, the particular footsteps that meant someone she loved had returned. She knew which questions would make him laugh, and which ones would make him put aside his work and listen.</p>
-        <p>Now she knows very little.</p>
-        <p>The years will give her other things. A place to live. People to love. Ordinary mornings. The small consolations by which a life becomes possible again.</p>
-        <p>And stories.</p>
-        <p>Stories of the city that burned. Stories of those who escaped. Stories of those who stayed. Stories of things that happened, and things that might have happened, and things that everyone eventually agrees must have happened.</p>
-        <p>Some will be told in anger.</p>
-        <p>Some in gratitude.</p>
-        <p>Some simply because the children ask.</p>
-        <p>The girl will remember more than most. She will also forget things. There will be days when she is certain of something she cannot prove, and days when a familiar memory changes without her noticing.</p>
-        <p>For now, none of that matters.</p>
-        <p>She is fourteen years old.</p>
-        <p>She has survived the end of one world.</p>
-        <p>She does not yet know how many others will be made from it.</p>
+        <p>When the songs are written, the victors will have names for everything. Courage will belong to one shore. Wickedness will belong to the other. A complicated war will be cleaned, polished and made simple enough to sing.</p>
+        <p>But the songs have not yet been written.</p>
+        <p>Night lies warm upon the city. Salt gathers on the palace screens. The corridors smell of sesame oil, wet stone and jasmine bruised beneath hurried feet. From the kitchens comes woodsmoke and the sweetness of coconut; from the harbour, tar, fish and rope soaked by the sea. Servants carry clean linen past wounded soldiers. Somewhere below, a carpenter is still being asked to mend a hinge—as though the palace expects another season.</p>
+        <p>In an upper room, a king waits with a man who was not expected to return. Between them stand a jug of water, an unfinished meal and a report neither can afford to misunderstand.</p>
+        <p>The king wants to know how the enemy intends to win.</p>
+        <p>The returned man has also brought back a version of why.</p>
+        <p>Their conversation follows them out of the room: through corridors where servants make way, into gardens where another life waits, towards walls that no longer keep the sounds of war outside. Night gives way to day. The lamps are lit again. Between one order and the next, there is still water to fetch, a wound to dress, someone asking where the clean cloth has gone.</p>
+        <p>The king has been a scholar, musician, builder, brother, husband and ruler. He knows how to hear a fault in a string, a weakness in an argument and a hesitation in a report. He is clever enough to recognise his mistakes and human enough to rename them.</p>
+        <p>Now the city needs more from him than an explanation.</p>
+        <p>Beyond its walls, an enemy is building a road towards victory. Within them, cooks, physicians, soldiers and engineers continue the small practical work by which a kingdom insists upon tomorrow.</p>
+        <p>There are people here who love their king. There are people with reasons not to. Some have been protected by his decisions. Others are still living inside them.</p>
+        <p>Before anyone becomes a god or a monster, there is a person deciding what to do next.</p>
       </div>
     </section>
 
@@ -244,7 +242,7 @@ function buildHome() {
       <div class="chapters__heading">
         <div>
           <p class="section-label">Read</p>
-          <h2 id="chapters-title">The chapters</h2>
+          <h2 id="chapters-title">The conversation</h2>
         </div>
         <p>${chapters.length} available · 10 chapters</p>
       </div>
@@ -253,14 +251,14 @@ function buildHome() {
   </main>
 
   <footer class="site-footer">
-    <span>After the Songs</span>
+    <span>Before the Songs</span>
     <span>© 2026 KP</span>
   </footer>`;
 
   return documentShell({
-    pageTitle: "After the Songs — A novel by KP",
+    pageTitle: "Before the Songs — A novel by KP",
     description:
-      "A girl survives the crossing. The stories of what was lost are only beginning.",
+      "Across two nights and the day between them, a king fights for his city—and for a life the songs may never remember.",
     className: "home-page",
     base: "",
     content,
@@ -287,9 +285,9 @@ function buildChapter(chapter) {
 
   const content = `
   <header class="reader-bar">
-    <a class="wordmark" href="../" aria-label="After the Songs, home">
+    <a class="wordmark" href="../" aria-label="Before the Songs, home">
       <span class="wordmark__mark"></span>
-      After the Songs
+      Before the Songs
     </a>
     <div class="reader-tools" aria-label="Reading controls">
       <button type="button" data-font="-1" aria-label="Reduce text size">A−</button>
@@ -316,12 +314,12 @@ function buildChapter(chapter) {
   </main>
 
   <footer class="reader-footer">
-    <a href="../">After the Songs</a>
+    <a href="../">Before the Songs</a>
     <span>KP</span>
   </footer>`;
 
   return documentShell({
-    pageTitle: chapter.title + " — After the Songs",
+    pageTitle: chapter.title + " — Before the Songs",
     description: chapter.number + ": " + chapter.title,
     className: `reader-page chapter-theme-${chapter.index + 1}`,
     base: "../",
@@ -340,7 +338,7 @@ for (const chapter of chapters) {
 writeFileSync(
   path.join(distDir, "404.html"),
   documentShell({
-    pageTitle: "Page not found — After the Songs",
+    pageTitle: "Page not found — Before the Songs",
     description: "Page not found.",
     className: "not-found-page",
     base: "",
